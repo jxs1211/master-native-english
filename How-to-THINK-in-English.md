@@ -1,0 +1,12 @@
+- Name all the objects around in English (YouGlishhttps://youglish.com)
+- Think in simple sentences:
+    - I'm a teacher
+    - The drawer is open
+    ...
+- Have small conversation with yourself in English
+- Change one of your everyday life things to English
+    - change your canlender setting
+    - think about your what is your plan today in English for 2 mintues when you wake up every morning.
+    - 
+- Keep track so you're doing it in English every day
+- Recap your day in English
