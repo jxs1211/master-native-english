@@ -1,0 +1,115 @@
+1
+00:00:03,960 --> 00:00:10,020
+In the last lesson we talked about different phrases we can use when we're picking somebody up at the
+
+2
+00:00:10,020 --> 00:00:11,010
+airport.
+
+3
+00:00:11,010 --> 00:00:19,500
+Very important social situation in this lesson we're going to talk about how to describe data in graphs.
+
+4
+00:00:19,500 --> 00:00:26,970
+So usually when we express or want to show a large amount of data which means information and communicate
+
+5
+00:00:26,970 --> 00:00:33,090
+that to someone we don't just say all of the different numbers or all of the different facts that we
+
+6
+00:00:33,090 --> 00:00:41,880
+want to say we represent it or show it in a graph or a chart or some type of we could say visualization
+
+7
+00:00:42,300 --> 00:00:47,510
+visualization is a way to show something in a way that people can see right.
+
+8
+00:00:47,700 --> 00:00:49,520
+So that people can easily understand it.
+
+9
+00:00:49,530 --> 00:00:52,550
+Maybe they can understand it in a more intuitive way.
+
+10
+00:00:52,560 --> 00:01:01,800
+Well let's say you're in a meeting and you want to communicate what you're seeing in a chart or a graph
+
+11
+00:01:02,370 --> 00:01:04,780
+because maybe there's somebody on the phone.
+
+12
+00:01:04,890 --> 00:01:11,040
+It's important to be able to express information simply and say what you're looking at.
+
+13
+00:01:11,070 --> 00:01:14,310
+Now we've we've worked on that early in this course.
+
+14
+00:01:14,400 --> 00:01:16,360
+We talked about for example the House.
+
+15
+00:01:16,430 --> 00:01:17,330
+So we described that.
+
+16
+00:01:17,340 --> 00:01:19,170
+But what about when it's a graph.
+
+17
+00:01:19,170 --> 00:01:24,900
+Well in this lesson we're going to be focused on how we can do that how we can express what we're looking
+
+18
+00:01:24,900 --> 00:01:27,030
+at a data visualization.
+
+19
+00:01:27,030 --> 00:01:29,720
+Now this may sound very difficult.
+
+20
+00:01:29,730 --> 00:01:36,510
+The best way I think for me to show you a way to do this is to do an example.
+
+21
+00:01:36,510 --> 00:01:43,140
+So what we're going to do is we're going to look at a look at a graph and we're going to then talk about
+
+22
+00:01:43,200 --> 00:01:43,860
+what it means.
+
+23
+00:01:43,860 --> 00:01:50,730
+First we're gonna go through some keywords some useful some useful words then we're going to actually
+
+24
+00:01:50,790 --> 00:01:55,910
+look at the graph and we're going to talk about how we can describe what's going on there.
+
+25
+00:01:55,920 --> 00:01:57,460
+I'm going to give you a clear example.
+
+26
+00:01:57,600 --> 00:02:06,540
+Then we'll go over a few phrases we can use to express an analysis of that what it means really if we
+
+27
+00:02:06,540 --> 00:02:09,120
+start asking deeper questions.
+
+28
+00:02:09,130 --> 00:02:15,250
+Now this part is actually the more challenging part but also I think the more the more interesting part.
+
+29
+00:02:15,270 --> 00:02:19,530
+So let's get started with some of the vocabulary and then we will look at the graph.

@@ -1,0 +1,684 @@
+0
+1
+00:00:00,240 --> 00:00:03,830
+OK the first thing that you need to know when you're writing an email.
+1
+
+2
+00:00:03,930 --> 00:00:09,920
+The first thing you need to think about is that the style you use should not always be the same.
+2
+
+3
+00:00:09,930 --> 00:00:14,460
+You don't want to use the same style for your friend that you do with.
+3
+
+4
+00:00:14,460 --> 00:00:17,640
+For example a co-worker or a colleague.
+4
+
+5
+00:00:17,640 --> 00:00:21,740
+So always think about before you get started writing an email.
+5
+
+6
+00:00:21,780 --> 00:00:23,520
+Why am I writing this email.
+6
+
+7
+00:00:23,520 --> 00:00:25,650
+What's my purpose.
+7
+
+8
+00:00:25,710 --> 00:00:26,790
+What's the reason.
+8
+
+9
+00:00:26,790 --> 00:00:30,000
+And then the style should follow that purpose.
+9
+
+10
+00:00:30,000 --> 00:00:36,150
+If you're trying to accomplish something for example by getting information you shouldn't ask a lot
+10
+
+11
+00:00:36,150 --> 00:00:39,110
+of questions about unrelated things.
+11
+
+12
+00:00:39,160 --> 00:00:42,650
+OK but you might do that if you're writing a personal email.
+12
+
+13
+00:00:42,780 --> 00:00:48,530
+You might ask some more general questions and the email might be longer if it's more personal.
+13
+
+14
+00:00:48,600 --> 00:00:55,590
+You might describe more things but if you're writing a more professional e-mail if you add a lot of
+14
+
+15
+00:00:55,590 --> 00:01:03,150
+words that are unnecessary or you make a lot of extra points or say a lot then it's possible that what
+15
+
+16
+00:01:03,150 --> 00:01:08,830
+you're trying to get or maybe the question you're trying to get answered may be missed.
+16
+
+17
+00:01:08,880 --> 00:01:16,020
+So it's important to keep in mind that generally a more casual email will be or can be more relaxed
+17
+
+18
+00:01:16,140 --> 00:01:23,730
+and longer and then a professional one should be shorter unless it needs to be longer for some specific
+18
+
+19
+00:01:23,730 --> 00:01:24,360
+reason.
+19
+
+20
+00:01:24,360 --> 00:01:31,260
+But the goal should be to try to keep it as short and clean and efficient as possible.
+20
+
+21
+00:01:31,260 --> 00:01:35,060
+So when you write a professional email try your best to be efficient.
+21
+
+22
+00:01:35,070 --> 00:01:37,250
+Don't waste space.
+22
+
+23
+00:01:37,260 --> 00:01:43,100
+Keep it simple keep it really simple when you're writing a personal e-mail.
+23
+
+24
+00:01:43,230 --> 00:01:45,210
+Or maybe one that's more casual.
+24
+
+25
+00:01:45,210 --> 00:01:49,870
+You can have a bit more let's call it flowery language.
+25
+
+26
+00:01:49,920 --> 00:01:55,090
+Sometimes it's called flowery language you can use extra you can say what you want to say.
+26
+
+27
+00:01:55,200 --> 00:01:57,660
+You can tell a story whatever you want to do.
+27
+
+28
+00:01:57,720 --> 00:01:58,800
+So they're very different.
+28
+
+29
+00:01:59,010 --> 00:02:02,220
+So the second one is to separate the purpose from the body.
+29
+
+30
+00:02:02,220 --> 00:02:08,550
+In other words the body of the email is maybe the largest section maybe you're answering someone else's
+30
+
+31
+00:02:08,550 --> 00:02:11,590
+question and the body is your reply.
+31
+
+32
+00:02:11,640 --> 00:02:17,070
+Basically what you're saying but you want to know some things as well or you want to ask some questions
+32
+
+33
+00:02:17,250 --> 00:02:22,360
+in return you shouldn't mix those questions in with the body.
+33
+
+34
+00:02:22,470 --> 00:02:29,850
+If you're writing as a way to get something from somebody make sure that separate from the main chunk
+34
+
+35
+00:02:29,850 --> 00:02:32,530
+of the email make sure that's on its own.
+35
+
+36
+00:02:32,550 --> 00:02:36,690
+So you have the you know you're answering their e-mail here.
+36
+
+37
+00:02:36,780 --> 00:02:42,290
+Then go down to lines and write your own question.
+37
+
+38
+00:02:42,300 --> 00:02:43,640
+That's what you want to know.
+38
+
+39
+00:02:43,650 --> 00:02:45,870
+Don't mix it in over here.
+39
+
+40
+00:02:45,870 --> 00:02:51,840
+If there are three or four questions mixed in with this then they feel the other person who receives
+40
+
+41
+00:02:51,840 --> 00:02:53,920
+your e-mail feels exhausted.
+41
+
+42
+00:02:54,000 --> 00:03:00,410
+Which question do I need to answer and they might just say I can't find all those questions.
+42
+
+43
+00:03:00,450 --> 00:03:04,590
+So it's very important to separate those and that's a general email tip.
+43
+
+44
+00:03:04,590 --> 00:03:09,780
+Now when you're writing a professional email you want to probably if you need something if you're asking
+44
+
+45
+00:03:09,780 --> 00:03:12,800
+for something use a list.
+45
+
+46
+00:03:13,020 --> 00:03:19,990
+We often say for example I would like the following.
+46
+
+47
+00:03:20,010 --> 00:03:22,450
+So it's clearly separate from everything else.
+47
+
+48
+00:03:22,470 --> 00:03:29,950
+One two three or dash dash dash and those don't even need to be full sentences.
+48
+
+49
+00:03:29,970 --> 00:03:30,900
+That's fine.
+49
+
+50
+00:03:30,900 --> 00:03:36,690
+So whatever you want to get from the other side the person you're writing to make sure that that is
+50
+
+51
+00:03:36,690 --> 00:03:39,660
+clearly separated from everything else.
+51
+
+52
+00:03:39,660 --> 00:03:43,050
+Otherwise it may be missed.
+52
+
+53
+00:03:43,050 --> 00:03:46,230
+So number one make sure the style fits your purpose.
+53
+
+54
+00:03:46,230 --> 00:03:48,930
+Number two make sure what you would like.
+54
+
+55
+00:03:48,930 --> 00:03:54,720
+The other person to reply to you about is separate from everything else in the email.
+55
+
+56
+00:03:54,720 --> 00:04:00,770
+If you have other stuff in the email maybe it's just that if it's a very quick email that's OK.
+56
+
+57
+00:04:00,780 --> 00:04:01,080
+All right.
+57
+
+58
+00:04:01,080 --> 00:04:08,160
+Tip number three if you're writing an email to someone you want to be careful about when you use dear
+58
+
+59
+00:04:08,220 --> 00:04:11,200
+you probably know that some e-mails can begin with dear.
+59
+
+60
+00:04:11,220 --> 00:04:13,330
+I want to say be careful with that.
+60
+
+61
+00:04:13,470 --> 00:04:14,460
+When would you use dear.
+61
+
+62
+00:04:14,460 --> 00:04:20,310
+Well you might use dear if you're writing to someone you don't know for the very first time and that
+62
+
+63
+00:04:20,310 --> 00:04:26,970
+person has a higher status or maybe you have absolutely no idea who they are.
+63
+
+64
+00:04:26,970 --> 00:04:29,140
+You just have a name you say dear.
+64
+
+65
+00:04:29,160 --> 00:04:30,590
+Dr. Stevens.
+65
+
+66
+00:04:30,660 --> 00:04:33,300
+OK it's the first communication.
+66
+
+67
+00:04:33,300 --> 00:04:36,780
+It's very formal or it's very close.
+67
+
+68
+00:04:36,780 --> 00:04:42,630
+If you're writing a letter for example or a card to your grandmother then again you would use deer for
+68
+
+69
+00:04:42,630 --> 00:04:43,710
+that dear grandma.
+69
+
+70
+00:04:43,890 --> 00:04:50,730
+So deer can be used affectionately for for example relatives who were very very close to and deer can
+70
+
+71
+00:04:50,730 --> 00:04:57,660
+also be used for very formal situations in which we don't really know the other person we're talking
+71
+
+72
+00:04:57,660 --> 00:04:58,110
+to.
+72
+
+73
+00:04:58,110 --> 00:05:01,760
+However if you have an going relationship with them.
+73
+
+74
+00:05:01,850 --> 00:05:03,860
+You emailed back and forth regularly.
+74
+
+75
+00:05:03,910 --> 00:05:04,860
+Don't use dear.
+75
+
+76
+00:05:04,960 --> 00:05:06,610
+Just use Hi.
+76
+
+77
+00:05:06,730 --> 00:05:07,720
+And then the name.
+77
+
+78
+00:05:07,720 --> 00:05:09,250
+Hi Dr. Stevens.
+78
+
+79
+00:05:09,310 --> 00:05:11,890
+Or just begin with Dr. Stevens.
+79
+
+80
+00:05:12,040 --> 00:05:14,470
+Or you could say hello Dr. Stevens.
+80
+
+81
+00:05:14,800 --> 00:05:16,120
+Hello Dr. Stevens.
+81
+
+82
+00:05:16,310 --> 00:05:18,000
+OK so those are common.
+82
+
+83
+00:05:18,040 --> 00:05:18,850
+Those are common.
+83
+
+84
+00:05:18,850 --> 00:05:23,450
+Now we could use hay but not probably not for Dr. Stevens.
+84
+
+85
+00:05:23,530 --> 00:05:28,930
+Hay is much more casual much more relaxed very casual.
+85
+
+86
+00:05:28,930 --> 00:05:35,950
+So I just want you to be aware of deer and that it's actually not as common as many people who are learning
+86
+
+87
+00:05:35,950 --> 00:05:41,280
+English may think it is our last tip is perfect punctuation.
+87
+
+88
+00:05:41,320 --> 00:05:41,980
+What does that mean.
+88
+
+89
+00:05:41,980 --> 00:05:46,640
+So these marks we use is called a period.
+89
+
+90
+00:05:46,690 --> 00:05:48,650
+This is called a comma.
+90
+
+91
+00:05:48,670 --> 00:05:54,730
+These marks that we use when we're writing these are these are called punctuation.
+91
+
+92
+00:05:54,730 --> 00:06:00,520
+We use them to mark our sentences and I just want to say if you're going to write an email make sure
+92
+
+93
+00:06:00,520 --> 00:06:07,010
+it's grammatically correct English speakers tend to be very sensitive to things that are not perfect.
+93
+
+94
+00:06:07,060 --> 00:06:11,990
+If it's easy to make them perfect writing that isn't absolutely clear all right.
+94
+
+95
+00:06:12,010 --> 00:06:22,390
+It's OK but if you for example write in fact and then you have a space here comma space here I'd like
+95
+
+96
+00:06:22,750 --> 00:06:24,430
+to whatever blah blah blah.
+96
+
+97
+00:06:24,940 --> 00:06:31,760
+OK it's wrong it's wrong and it's obviously written by probably a non-native English speaker.
+97
+
+98
+00:06:31,810 --> 00:06:37,870
+So all you have to do is learn the simple rules of punctuation and make sure that your email is perfect
+98
+
+99
+00:06:37,870 --> 00:06:39,250
+before you send it out.
+99
+
+100
+00:06:39,250 --> 00:06:40,770
+There should be no space here.
+100
+
+101
+00:06:40,780 --> 00:06:42,820
+There should be one space here.
+101
+
+102
+00:06:42,820 --> 00:06:47,780
+OK so it should be in fact comma no space.
+102
+
+103
+00:06:47,800 --> 00:06:50,670
+I'd like to add it's the same for a period.
+103
+
+104
+00:06:50,710 --> 00:06:55,860
+If we end a sentence at all Let's imagine this is the end of a sentence.
+104
+
+105
+00:06:55,960 --> 00:06:58,480
+However comma space I.
+105
+
+106
+00:06:58,510 --> 00:06:58,820
+OK.
+106
+
+107
+00:06:58,840 --> 00:07:01,500
+So we have the end of a sentence no space here.
+107
+
+108
+00:07:01,510 --> 00:07:03,770
+One space here OK.
+108
+
+109
+00:07:03,820 --> 00:07:07,350
+And then however capital letter at the beginning of the sentence.
+109
+
+110
+00:07:07,360 --> 00:07:09,900
+Very important if this is a small h.
+110
+
+111
+00:07:10,000 --> 00:07:12,960
+It looks like a text message very unprofessional.
+111
+
+112
+00:07:13,150 --> 00:07:14,380
+No space here.
+112
+
+113
+00:07:14,380 --> 00:07:20,080
+One space here and then I and I again should always be capitalized.
+113
+
+114
+00:07:20,080 --> 00:07:21,520
+We can't write it like that.
+114
+
+115
+00:07:21,760 --> 00:07:27,430
+So this kind of basic stuff if you're writing more professional emails and you're communicating with
+115
+
+116
+00:07:27,430 --> 00:07:37,030
+people by email with incorrect basic punctuation and maybe for example not capitalizing I could capitalize
+116
+
+117
+00:07:37,510 --> 00:07:43,150
+not capitalizing I or the beginning of a sentence like that they might not read it.
+117
+
+118
+00:07:43,270 --> 00:07:50,230
+I often get emails from people and sometimes if I see that someone has not taken the time to carefully
+118
+
+119
+00:07:50,230 --> 00:07:56,980
+read read through what they wrote and correct small things I go I think to myself This person doesn't
+119
+
+120
+00:07:56,980 --> 00:08:02,560
+really care about communicating with me or else they would have taken the time to fix these are very
+120
+
+121
+00:08:02,560 --> 00:08:05,860
+basic these very basic things and they are very simple.
+121
+
+122
+00:08:05,890 --> 00:08:14,110
+All you need to know basically is what I just said capitalize the beginning of a sentence I and have
+122
+
+123
+00:08:14,110 --> 00:08:20,860
+no spaces before a comma or a period or an exclamation or any other mark and one space after.
+123
+
+124
+00:08:20,860 --> 00:08:28,270
+So make sure to make sure to read through your emails before you send them download a plug in called
+124
+
+125
+00:08:28,510 --> 00:08:29,550
+grammarly.
+125
+
+126
+00:08:29,680 --> 00:08:31,850
+I'm not being paid by grammarly to say it.
+126
+
+127
+00:08:31,860 --> 00:08:33,510
+It's a good plug in.
+127
+
+128
+00:08:33,520 --> 00:08:34,230
+It's a good app.
+128
+
+129
+00:08:34,240 --> 00:08:35,640
+You can you can download it.
+129
+
+130
+00:08:35,650 --> 00:08:36,860
+I think for your computer.
+130
+
+131
+00:08:36,970 --> 00:08:44,680
+But you can also have it as a plugin for for example Safari or Google Chrome and GRC and them a are
+131
+
+132
+00:08:44,850 --> 00:08:45,710
+they are why.
+132
+
+133
+00:08:45,910 --> 00:08:46,630
+It's awesome.
+133
+
+134
+00:08:46,630 --> 00:08:52,000
+It can pick out the things that are incorrect and make your emails come across much more professionally.
+134
+
+135
+00:08:52,000 --> 00:08:52,400
+OK.
+135
+
+136
+00:08:52,480 --> 00:08:57,540
+So those are four tips to keep in mind when you are writing emails.
+136
+
+137
+00:08:57,550 --> 00:09:00,040
+Now let's go through a couple of examples.

@@ -1,0 +1,367 @@
+1
+00:00:00,120 --> 00:00:05,130
+Now some of these things that we're going to look at will make a little bit more sense once we actually
+
+2
+00:00:05,160 --> 00:00:06,460
+look at the graph.
+
+3
+00:00:06,570 --> 00:00:12,180
+But I just want to go over some of the basic words we need to know before we get into that description.
+
+4
+00:00:12,210 --> 00:00:21,060
+So first one analysis or analysis is a noun analyze is the verb form analysis means you study something
+
+5
+00:00:21,150 --> 00:00:25,710
+and then you decide what it could mean and you interpret it.
+
+6
+00:00:25,740 --> 00:00:28,160
+You don't just look at it and say what's there.
+
+7
+00:00:28,230 --> 00:00:32,130
+You look at it maybe say what's there and then ask yourself.
+
+8
+00:00:32,220 --> 00:00:34,750
+So what does this tell me about the world.
+
+9
+00:00:34,770 --> 00:00:36,930
+What does this tell me about this topic.
+
+10
+00:00:36,990 --> 00:00:38,260
+Whatever it may be.
+
+11
+00:00:38,400 --> 00:00:45,390
+So analysis kind of means studying something more deeply thinking about something more deeply and telling
+
+12
+00:00:45,390 --> 00:00:50,760
+yourself or telling others what it actually means on a higher level.
+
+13
+00:00:50,790 --> 00:00:57,960
+So you would look at data study data analyzed data and then hopefully come to a higher or better understanding
+
+14
+00:00:58,080 --> 00:01:00,550
+of the topic or your own opinion maybe.
+
+15
+00:01:00,620 --> 00:01:01,280
+OK.
+
+16
+00:01:01,710 --> 00:01:04,330
+Now fertility this might not make sense.
+
+17
+00:01:04,380 --> 00:01:06,400
+Now why am I talking about this.
+
+18
+00:01:06,480 --> 00:01:11,340
+But this just means it's related to birth women giving birth.
+
+19
+00:01:11,430 --> 00:01:14,490
+We're going to look at a graph that shows fertility.
+
+20
+00:01:14,490 --> 00:01:16,870
+That means the number of babies born.
+
+21
+00:01:16,980 --> 00:01:18,810
+How many babies are born.
+
+22
+00:01:18,810 --> 00:01:26,280
+So when we hear things like fertility rate we're talking about usually how many children women give
+
+23
+00:01:26,280 --> 00:01:29,470
+birth to maybe in a country maybe in a city.
+
+24
+00:01:29,490 --> 00:01:31,070
+What's the fertility rate.
+
+25
+00:01:31,230 --> 00:01:36,640
+And that's going to be an average case on average an average.
+
+26
+00:01:36,870 --> 00:01:42,180
+I think you know it in averages if you add them all together and divide by the total number you have
+
+27
+00:01:42,480 --> 00:01:44,110
+the average fertility rate.
+
+28
+00:01:44,220 --> 00:01:53,590
+OK trends now a trend is usually a way to talk about the direction that something is happening in.
+
+29
+00:01:53,660 --> 00:01:57,270
+Now one way to talk about a trend is to is to discuss fashion.
+
+30
+00:01:57,300 --> 00:01:58,560
+Oh very cool right now.
+
+31
+00:01:58,590 --> 00:01:59,940
+This is a trend.
+
+32
+00:02:00,000 --> 00:02:03,420
+This is a trend but you could also talk about trends like this.
+
+33
+00:02:03,660 --> 00:02:10,620
+Well every summer maybe the price of this type of clothing gets more expensive and it happens every
+
+34
+00:02:10,620 --> 00:02:11,280
+year.
+
+35
+00:02:11,450 --> 00:02:13,350
+So it didn't just happen once.
+
+36
+00:02:13,350 --> 00:02:13,580
+OK.
+
+37
+00:02:13,590 --> 00:02:14,670
+So that's a trend.
+
+38
+00:02:15,450 --> 00:02:21,660
+So something happens on a more regular basis or happens more frequently or it's easy to predict that
+
+39
+00:02:21,660 --> 00:02:22,850
+it will happen again.
+
+40
+00:02:22,860 --> 00:02:24,870
+Usually we use this word.
+
+41
+00:02:25,040 --> 00:02:28,070
+It's used also in the fashion sense too.
+
+42
+00:02:28,110 --> 00:02:30,780
+They're related but not exactly the same.
+
+43
+00:02:30,900 --> 00:02:31,570
+OK.
+
+44
+00:02:31,710 --> 00:02:38,900
+So analysis fertility by the way the opposite of fertility just to mention that quickly is mortality.
+
+45
+00:02:38,940 --> 00:02:43,500
+Mortality is related to the opposite of birth which is death.
+
+46
+00:02:43,500 --> 00:02:48,780
+So if you ever hear someone say high mortality you're talking about a lot of people dying.
+
+47
+00:02:48,840 --> 00:02:50,360
+GDP per capita.
+
+48
+00:02:50,390 --> 00:02:59,520
+Now I guess you probably know GDP this is gross domestic product and this represents basically how wealthy
+
+49
+00:02:59,550 --> 00:03:00,660
+a country is.
+
+50
+00:03:00,660 --> 00:03:04,220
+Sometimes you'll see GDP per capita.
+
+51
+00:03:04,230 --> 00:03:05,380
+Don't be confused.
+
+52
+00:03:05,400 --> 00:03:07,220
+It's pretty simple actually.
+
+53
+00:03:07,260 --> 00:03:15,240
+Let's imagine that let's imagine that in a year a country makes 1000 dollars.
+
+54
+00:03:15,240 --> 00:03:18,650
+Let's say this country has 1000 people.
+
+55
+00:03:18,840 --> 00:03:22,160
+So the GDP per capita is 1.
+
+56
+00:03:22,260 --> 00:03:29,530
+So basically all you do is you take the total GDP and you divide by the total number of people.
+
+57
+00:03:29,550 --> 00:03:31,940
+Then you have the GDP per capita.
+
+58
+00:03:31,980 --> 00:03:38,130
+So on average how much money does each person have in a year.
+
+59
+00:03:38,160 --> 00:03:39,960
+Basically that's GDP per capita.
+
+60
+00:03:40,260 --> 00:03:45,270
+And some people say it's not a good way to judge how much money people have because you could have five
+
+61
+00:03:45,270 --> 00:03:49,760
+people with billions of dollars and a million people with ten dollars.
+
+62
+00:03:49,830 --> 00:03:50,220
+Right.
+
+63
+00:03:50,220 --> 00:03:53,940
+So maybe not the best way to talk about how much money everybody has.
+
+64
+00:03:53,940 --> 00:03:58,260
+But it's a it's a way to measure the wealth.
+
+65
+00:03:58,340 --> 00:04:02,810
+You could say the wealth or status of a country's economy.
+
+66
+00:04:02,920 --> 00:04:05,420
+OK decline and drop.
+
+67
+00:04:05,610 --> 00:04:12,690
+Now if you see something going down there's less of something less money less people whatever it may
+
+68
+00:04:12,690 --> 00:04:13,450
+be.
+
+69
+00:04:13,470 --> 00:04:17,340
+We often say there is a decline in that.
+
+70
+00:04:17,340 --> 00:04:24,180
+For example recently we've seen a decline in violence a decline in violence.
+
+71
+00:04:24,180 --> 00:04:27,080
+Violence means maybe crime where people get hurt.
+
+72
+00:04:27,240 --> 00:04:27,770
+OK.
+
+73
+00:04:27,810 --> 00:04:28,060
+Why.
+
+74
+00:04:28,080 --> 00:04:29,430
+Oh maybe there I don't know.
+
+75
+00:04:29,430 --> 00:04:30,750
+Maybe there are more police.
+
+76
+00:04:30,750 --> 00:04:32,530
+Maybe that culture is changing.
+
+77
+00:04:32,550 --> 00:04:39,000
+Whatever it may be there is a decline in violence but that doesn't tell us how quickly that's happening
+
+78
+00:04:39,000 --> 00:04:45,270
+it may be over 10 years unless we say how long that is we could say over a six year period there was
+
+79
+00:04:45,270 --> 00:04:48,580
+a major decline in violence.
+
+80
+00:04:48,580 --> 00:04:49,130
+OK.
+
+81
+00:04:49,200 --> 00:04:56,390
+If it's sudden though then we'll probably use the word drop and we might even say a sharp a sharp drop.
+
+82
+00:04:56,400 --> 00:05:01,930
+It's if it's sudden if you look at a graph and it goes straight down sharp decline you could say that
+
+83
+00:05:01,960 --> 00:05:06,970
+or a sharp drop or a drop doesn't have to be over a period of time.
+
+84
+00:05:06,970 --> 00:05:07,840
+It could be.
+
+85
+00:05:07,870 --> 00:05:13,450
+Well anything on a graph that goes like this you could say a sharp drop in the opposite of that would
+
+86
+00:05:13,450 --> 00:05:14,830
+be rise.
+
+87
+00:05:14,830 --> 00:05:19,420
+A sharp rise in crime a sharp rise in income.
+
+88
+00:05:19,420 --> 00:05:23,560
+How much money people make for example sharp suggests it looks like this.
+
+89
+00:05:23,560 --> 00:05:25,440
+The line in the graph looks like this.
+
+90
+00:05:25,750 --> 00:05:29,400
+So I think this will make more sense once we actually look at the graph.
+
+91
+00:05:29,410 --> 00:05:30,600
+Let's just take a look at it.
+
+92
+00:05:30,610 --> 00:05:34,990
+Talk about what it means then we'll look at how we can actually describe it.

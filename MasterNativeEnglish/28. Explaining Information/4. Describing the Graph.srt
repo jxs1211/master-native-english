@@ -1,0 +1,607 @@
+1
+00:00:00,210 --> 00:00:05,010
+Now let's get into the actual description of this graph of this data.
+
+2
+00:00:05,010 --> 00:00:11,760
+Remember our goal is to help someone who's hypothetically on the phone in our meeting visualize what
+
+3
+00:00:11,760 --> 00:00:12,410
+we are seeing.
+
+4
+00:00:12,420 --> 00:00:13,410
+They can't see it.
+
+5
+00:00:13,470 --> 00:00:14,380
+We can see it.
+
+6
+00:00:14,400 --> 00:00:17,370
+We need to make it clear what it is we're seeing.
+
+7
+00:00:17,430 --> 00:00:22,760
+The first sentence just like our previous description class is is very important.
+
+8
+00:00:22,770 --> 00:00:28,200
+Now we don't need to use so many adjectives because we want to be as clear and simple as possible but
+
+9
+00:00:28,200 --> 00:00:36,630
+we do need to very clearly state what the relationship is between the Y and the x axis.
+
+10
+00:00:36,630 --> 00:00:38,300
+That's probably the most important.
+
+11
+00:00:38,370 --> 00:00:46,050
+Once we say that then we can go into some trends that we see and we can talk about the shapes the structure
+
+12
+00:00:46,290 --> 00:00:48,300
+of the points on the graph.
+
+13
+00:00:48,300 --> 00:00:50,450
+So let's let's look at it.
+
+14
+00:00:50,490 --> 00:00:59,670
+This graph shows the relationship between the total fertility rate or children per woman the total fertility
+
+15
+00:00:59,670 --> 00:01:05,370
+rate in countries around the world and the GDP per capita of those countries.
+
+16
+00:01:05,370 --> 00:01:13,350
+In 2004 there was a sharp drop in the fertility rate of poor countries between 0 and about five thousand
+
+17
+00:01:13,350 --> 00:01:14,090
+dollars.
+
+18
+00:01:14,130 --> 00:01:20,280
+GDP per capita when the GDP is low the fertility rate tends to be high.
+
+19
+00:01:20,340 --> 00:01:25,740
+In general wealthy countries tend to have fewer children per woman.
+
+20
+00:01:25,800 --> 00:01:30,540
+Or we could say have a lower fertility rate.
+
+21
+00:01:30,630 --> 00:01:38,070
+There are far more countries near the lower end of the graph in terms of GDP and relatively few at the
+
+22
+00:01:38,070 --> 00:01:39,080
+higher end.
+
+23
+00:01:39,090 --> 00:01:41,090
+We don't actually have to say that last part.
+
+24
+00:01:41,100 --> 00:01:47,670
+We could leave it out because if there are the majority in the lower end then that means that there
+
+25
+00:01:47,670 --> 00:01:49,670
+aren't that many in the higher end.
+
+26
+00:01:49,680 --> 00:01:49,900
+OK.
+
+27
+00:01:49,920 --> 00:01:55,550
+Remember there are a few over here in the wealthier countries and a lot of them over here.
+
+28
+00:01:55,560 --> 00:02:02,250
+OK but sometimes it helps just to be extra clear to state exactly what you're seeing even if it might
+
+29
+00:02:02,250 --> 00:02:03,510
+be a little redundant.
+
+30
+00:02:03,630 --> 00:02:04,040
+OK.
+
+31
+00:02:04,110 --> 00:02:07,380
+Let's just go through that one more time with a little bit more breakdown.
+
+32
+00:02:07,380 --> 00:02:10,720
+The graph shows that means this is what I'm looking at.
+
+33
+00:02:10,740 --> 00:02:12,510
+This is what it's telling me.
+
+34
+00:02:12,780 --> 00:02:15,750
+We can't say tells we have to say shows shows.
+
+35
+00:02:15,760 --> 00:02:16,180
+OK.
+
+36
+00:02:16,350 --> 00:02:18,660
+You could say I can see on the graph.
+
+37
+00:02:18,690 --> 00:02:20,960
+But I think this is probably a better way.
+
+38
+00:02:21,060 --> 00:02:24,390
+The graph shows keyword there.
+
+39
+00:02:24,390 --> 00:02:25,500
+The relationship.
+
+40
+00:02:25,530 --> 00:02:29,400
+That's the best word to use when we're talking about two things.
+
+41
+00:02:29,400 --> 00:02:32,640
+You and me we're talking about the relationship between us.
+
+42
+00:02:32,670 --> 00:02:39,380
+We're talking about a Y in an X we're talking about the relationship between the Y and the X relationship
+
+43
+00:02:39,390 --> 00:02:41,810
+means they have some connection to each other.
+
+44
+00:02:41,820 --> 00:02:42,240
+Right.
+
+45
+00:02:42,240 --> 00:02:45,320
+It suggests that they're not completely independent.
+
+46
+00:02:45,330 --> 00:02:47,820
+That means if you change one you change the other.
+
+47
+00:02:47,820 --> 00:02:49,330
+That's what relationship means.
+
+48
+00:02:49,350 --> 00:02:55,560
+Doesn't just mean that I'm putting them on this graph it means hey there's something here a correlation
+
+49
+00:02:55,680 --> 00:02:58,210
+that we can talk about we can discuss.
+
+50
+00:02:58,250 --> 00:02:58,580
+OK.
+
+51
+00:02:58,620 --> 00:03:01,920
+This graph shows the relationship between the total fertility rate.
+
+52
+00:03:01,950 --> 00:03:05,960
+Now if you want to say the number of children per woman.
+
+53
+00:03:06,000 --> 00:03:06,860
+That's OK.
+
+54
+00:03:06,900 --> 00:03:08,760
+You can say the number of children per woman.
+
+55
+00:03:08,790 --> 00:03:15,870
+If you're simplifying it but because you actually see fertility rate on the graph it's better to use
+
+56
+00:03:16,140 --> 00:03:18,830
+that term better to use what you see.
+
+57
+00:03:18,900 --> 00:03:19,340
+OK.
+
+58
+00:03:19,440 --> 00:03:23,820
+If you want to clarify something though all you have to do is add or.
+
+59
+00:03:24,030 --> 00:03:26,120
+And then say the other way to say it.
+
+60
+00:03:26,130 --> 00:03:32,860
+Total fertility rate or number of children born per woman in countries around the world.
+
+61
+00:03:32,870 --> 00:03:33,320
+OK.
+
+62
+00:03:33,360 --> 00:03:35,450
+We could say all countries around the world.
+
+63
+00:03:35,460 --> 00:03:38,250
+But actually we don't know if it's all countries.
+
+64
+00:03:38,250 --> 00:03:40,710
+It probably is but it doesn't really say that.
+
+65
+00:03:40,710 --> 00:03:45,770
+Does it and the GDP per capita of those countries.
+
+66
+00:03:45,810 --> 00:03:50,460
+So that helps us make it clear that the relationship is between this and this.
+
+67
+00:03:50,460 --> 00:03:56,400
+We're not talking about different countries makes it very clear we use those to reference to talk about
+
+68
+00:03:56,400 --> 00:03:59,020
+the previous countries that we said OK.
+
+69
+00:03:59,460 --> 00:04:04,440
+Then we just say the date in 2004 when did this data come out.
+
+70
+00:04:04,440 --> 00:04:06,170
+Basically we don't know.
+
+71
+00:04:06,330 --> 00:04:10,050
+We don't know when exactly they did the study when they got the information.
+
+72
+00:04:10,050 --> 00:04:13,010
+But this comes out in 2004.
+
+73
+00:04:13,010 --> 00:04:14,900
+That's that's the year we have.
+
+74
+00:04:15,060 --> 00:04:15,600
+OK.
+
+75
+00:04:15,720 --> 00:04:22,920
+There is a sharp drop in the fertility rate of poor countries between 0 and about five thousand dollars.
+
+76
+00:04:22,920 --> 00:04:25,200
+Because if you remember it's shaped like this.
+
+77
+00:04:25,200 --> 00:04:29,220
+We need to help that person on the phone visualize this.
+
+78
+00:04:29,580 --> 00:04:35,610
+If we say there is a gradual a gradual decline the feeling will be like this.
+
+79
+00:04:35,610 --> 00:04:40,320
+If we say sharp decline that's still not so clear because it could be like that it could be like that
+
+80
+00:04:40,350 --> 00:04:41,190
+could be like that.
+
+81
+00:04:41,550 --> 00:04:49,950
+So if we say numbers even if it's about we help clarify OK we can say around 5000.
+
+82
+00:04:49,950 --> 00:04:57,090
+Between 0 and around five thousand or about five thousand GDP if we wanted to add the highest number
+
+83
+00:04:57,120 --> 00:05:02,060
+we could say the highest is around forty one thousand dollars.
+
+84
+00:05:02,070 --> 00:05:03,390
+That's OK too.
+
+85
+00:05:03,420 --> 00:05:05,810
+If we don't need to say that then we can leave it out.
+
+86
+00:05:05,820 --> 00:05:09,310
+We're still just trying to describe basically what we see here.
+
+87
+00:05:09,390 --> 00:05:11,240
+When the GDP is low.
+
+88
+00:05:11,250 --> 00:05:17,070
+Now we're talking about this not quite analysis but we are talking about a specific trend that we can
+
+89
+00:05:17,070 --> 00:05:17,640
+see.
+
+90
+00:05:17,730 --> 00:05:24,400
+We're talking about what happens when this thing happens when the GDP is low.
+
+91
+00:05:24,450 --> 00:05:28,240
+The fertility rate tends to be high.
+
+92
+00:05:28,320 --> 00:05:29,460
+That is a trend.
+
+93
+00:05:29,550 --> 00:05:33,540
+So if there is a trend we often use the word tend to describe it.
+
+94
+00:05:33,600 --> 00:05:41,590
+It is a trend that when the GDP is low the fertility rate is high it tends to be high.
+
+95
+00:05:41,640 --> 00:05:44,190
+So don't be confused between trend and trend.
+
+96
+00:05:44,200 --> 00:05:50,660
+There used to usually talk about the same kind of thing tends to be high in general in general.
+
+97
+00:05:50,670 --> 00:05:53,570
+That helps us say well it's not always true.
+
+98
+00:05:53,610 --> 00:05:56,740
+Maybe I don't know but it seems to be true.
+
+99
+00:05:56,820 --> 00:06:03,360
+It looks to me like when the country is wealthier when there's more money or the GDP is higher then
+
+100
+00:06:03,510 --> 00:06:05,070
+there are not that many children.
+
+101
+00:06:05,070 --> 00:06:06,200
+That's interesting.
+
+102
+00:06:06,200 --> 00:06:06,450
+OK.
+
+103
+00:06:06,480 --> 00:06:11,020
+But we can use in general to say I'm not saying everyone is like this.
+
+104
+00:06:11,040 --> 00:06:13,790
+I'm just trying to communicate what I see here.
+
+105
+00:06:13,860 --> 00:06:17,690
+In general wealthy countries tend to have fewer children per woman.
+
+106
+00:06:17,700 --> 00:06:18,220
+OK.
+
+107
+00:06:18,240 --> 00:06:23,900
+Or we could say fertility rate in general wealthy countries tend to have a lower fertility rate.
+
+108
+00:06:23,910 --> 00:06:24,350
+Same thing.
+
+109
+00:06:24,540 --> 00:06:30,050
+There are former move but there are far more countries near the lower end of the graph.
+
+110
+00:06:30,120 --> 00:06:33,000
+So we could talk about the high end and the low end.
+
+111
+00:06:33,030 --> 00:06:34,440
+What does that mean exactly.
+
+112
+00:06:34,440 --> 00:06:42,870
+Well usually when we say and we're talking about the x axis not the y axis usually usually and the low
+
+113
+00:06:42,870 --> 00:06:44,640
+end will be closer to zero.
+
+114
+00:06:44,670 --> 00:06:46,450
+The high end will be the higher number.
+
+115
+00:06:46,470 --> 00:06:51,440
+That's very useful phrase the low end and the high end very useful.
+
+116
+00:06:51,510 --> 00:06:57,550
+This is to help us talk about a maybe a spectrum member from here to here.
+
+117
+00:06:57,560 --> 00:06:57,800
+OK.
+
+118
+00:06:57,810 --> 00:07:03,420
+So there are far more countries near the low or lower end of the graph in terms of GDP.
+
+119
+00:07:03,420 --> 00:07:11,610
+Now in terms of is to help us clarify which exact thing we're talking about in terms of wealth in terms
+
+120
+00:07:11,610 --> 00:07:14,740
+of children per woman in terms of what.
+
+121
+00:07:14,760 --> 00:07:21,840
+So if we want to clarify exactly what it is that is this way at the low end it's going to be GDP per
+
+122
+00:07:21,960 --> 00:07:29,070
+capita in terms of you can use to talk about well this is my topic but in terms of wealth yeah maybe
+
+123
+00:07:29,130 --> 00:07:31,430
+maybe this country is doing quite well.
+
+124
+00:07:31,440 --> 00:07:37,050
+But in terms of equality not so well and in terms of nutrition.
+
+125
+00:07:37,050 --> 00:07:38,210
+Again not so well.
+
+126
+00:07:38,280 --> 00:07:44,310
+But in terms of the quality of entertainment then you can talk about whatever you want to talk about
+
+127
+00:07:44,370 --> 00:07:51,900
+to say if something is good or bad in a specific place I love to visit for example I love to visit San
+
+128
+00:07:51,900 --> 00:07:55,270
+Francisco in terms of interesting things to do.
+
+129
+00:07:55,290 --> 00:07:56,250
+It's awesome.
+
+130
+00:07:56,310 --> 00:08:05,100
+But in terms of maybe cost it's not so awesome it's very expensive in terms of cost and relatively few
+
+131
+00:08:05,100 --> 00:08:05,970
+at the higher end.
+
+132
+00:08:05,970 --> 00:08:08,940
+So this is a very simple way to describe this graph.
+
+133
+00:08:08,940 --> 00:08:16,020
+We could add more we could talk about the highest country being at around 41000 1000 GDP per capita.
+
+134
+00:08:16,050 --> 00:08:21,780
+We could include that if we wanted to do that we would say simply the highest country or the country
+
+135
+00:08:21,780 --> 00:08:30,330
+with the highest GDP per capita is at around forty one thousand dollars and the average children per
+
+136
+00:08:30,330 --> 00:08:33,720
+woman there is about two.
+
+137
+00:08:33,960 --> 00:08:34,170
+OK.
+
+138
+00:08:34,170 --> 00:08:36,290
+So if we want to say that we certainly can.
+
+139
+00:08:36,300 --> 00:08:42,890
+Saying what's at the end might be useful in some cases so that it's clear what is the highest number.
+
+140
+00:08:42,930 --> 00:08:44,070
+Sometimes that can help.
+
+141
+00:08:44,430 --> 00:08:51,390
+So I hope from this description you can pick out some of the useful phrases that we can use to talk
+
+142
+00:08:51,390 --> 00:08:58,110
+about graphs and always imagine that even if it's not the situation imagine that you're describing it
+
+143
+00:08:58,200 --> 00:09:02,610
+to someone who can't see it that will force you to use very clear language.
+
+144
+00:09:02,610 --> 00:09:08,340
+And I think if we use this description and say it over the phone to somebody or for some reason someone
+
+145
+00:09:08,340 --> 00:09:13,410
+is closing their eyes they can get a pretty good picture of what we're talking about if we use this
+
+146
+00:09:13,410 --> 00:09:16,500
+description they can get a good image in their mind.
+
+147
+00:09:16,590 --> 00:09:18,230
+What does this graph look like.
+
+148
+00:09:18,240 --> 00:09:25,140
+Next we're going to talk a little bit about how we might analyze this graph how we might break it down
+
+149
+00:09:25,350 --> 00:09:28,290
+break it down can say break.
+
+150
+00:09:28,290 --> 00:09:34,980
+Break it down remember analyze means to talk about maybe what it means even though it might be a guess.
+
+151
+00:09:34,980 --> 00:09:37,290
+So let's let's see what that could look like.
+
+152
+00:09:37,290 --> 00:09:37,950
+Just for fun.

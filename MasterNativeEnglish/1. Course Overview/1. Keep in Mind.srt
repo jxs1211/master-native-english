@@ -1,0 +1,571 @@
+1
+00:00:00,090 --> 00:00:06,840
+Hi there my name is Luke and welcome to the course I'm going to be the teacher for this entire course.
+
+2
+00:00:07,110 --> 00:00:14,070
+And I want to in this first video this introduction just basically introduce a few things about the
+
+3
+00:00:14,100 --> 00:00:21,930
+structure the style of the course as well as share a few tips things I'd like you to keep in mind things
+
+4
+00:00:21,930 --> 00:00:26,400
+I'd like you to remember throughout the course as you go through it.
+
+5
+00:00:26,490 --> 00:00:29,660
+Let's first just talk about the style of the course.
+
+6
+00:00:29,790 --> 00:00:32,590
+Throughout this course for the entire course you're going to see me.
+
+7
+00:00:32,660 --> 00:00:33,650
+Going to see my head.
+
+8
+00:00:33,780 --> 00:00:36,150
+See my face and see the blackboard.
+
+9
+00:00:36,150 --> 00:00:39,830
+I'll be writing on the blackboard throughout the course.
+
+10
+00:00:39,840 --> 00:00:45,690
+There will be no lessons in which you'll see the board or a screen and not me.
+
+11
+00:00:45,690 --> 00:00:48,320
+There'll be no lessons in which you see me and not the board.
+
+12
+00:00:48,330 --> 00:00:53,580
+We'll always be together me and my me and my best friend the blackboard.
+
+13
+00:00:53,580 --> 00:00:55,230
+That's a heart that's bad.
+
+14
+00:00:55,230 --> 00:00:59,040
+Speaking of a bad heart there will be times when my writing will be beat.
+
+15
+00:00:59,070 --> 00:01:03,520
+Maybe a little bit just a little bit messy because I'm writing quickly.
+
+16
+00:01:03,600 --> 00:01:10,200
+I think you will get used to how I write over time so if you find it difficult in the first or second
+
+17
+00:01:10,890 --> 00:01:16,350
+lesson to understand what I'm writing sometimes I think it'll get better.
+
+18
+00:01:16,350 --> 00:01:22,800
+After a couple more lessons because you have to get used to someone's writing style to be able to easily
+
+19
+00:01:23,280 --> 00:01:28,920
+read it and if I write very slowly then it will be extremely boring.
+
+20
+00:01:28,920 --> 00:01:29,440
+Right.
+
+21
+00:01:29,460 --> 00:01:30,220
+OK.
+
+22
+00:01:30,220 --> 00:01:34,380
+Next let's talk about what we're going to learn in this course.
+
+23
+00:01:34,380 --> 00:01:39,690
+Well you can read through all of the lessons in the course and see what the contents are.
+
+24
+00:01:39,720 --> 00:01:44,870
+But I want to just say something about how I've decided to structure it.
+
+25
+00:01:44,880 --> 00:01:47,820
+That means how I've decided to organize it.
+
+26
+00:01:47,820 --> 00:01:55,560
+I've said before I've been working on this course for a very very long time years and I've organized
+
+27
+00:01:55,590 --> 00:02:02,700
+the lessons in this course so that it's number one building upon things we learned previously that means
+
+28
+00:02:02,700 --> 00:02:05,600
+we learn something and then later on we'll use it.
+
+29
+00:02:05,730 --> 00:02:12,540
+For example will learn about descriptions early in the course and then use those skills later on but
+
+30
+00:02:12,540 --> 00:02:14,120
+also to keep it interesting.
+
+31
+00:02:14,150 --> 00:02:21,180
+So we might do something social kind of fun like a situation that you'll encounter in daily life.
+
+32
+00:02:21,270 --> 00:02:27,060
+Lots of those and then we'll have something a little more technical such as a particular English skill
+
+33
+00:02:27,240 --> 00:02:32,270
+that you need to do a particular thing and then maybe the next one will be a little bit more fun.
+
+34
+00:02:32,280 --> 00:02:38,040
+And by doing that and having that variety I hope that the course will continue to be interesting and
+
+35
+00:02:38,040 --> 00:02:39,630
+continue to stay fresh.
+
+36
+00:02:39,630 --> 00:02:45,120
+There will certainly be a couple of times when maybe a particular thing that we're learning is a bit
+
+37
+00:02:45,480 --> 00:02:46,520
+a bit dry.
+
+38
+00:02:46,530 --> 00:02:52,800
+I try my best not to make it boring dry means boring although those skills are very important.
+
+39
+00:02:52,830 --> 00:02:59,880
+Everything I've put into this course is important for people who want to improve their English.
+
+40
+00:02:59,880 --> 00:03:06,840
+If you're working on your spoken English even your written English this course will help you and everything
+
+41
+00:03:06,840 --> 00:03:11,870
+in this course is meant to be useful in your real life.
+
+42
+00:03:11,880 --> 00:03:16,560
+Just one more thing I want to mention before we talk about what to keep in mind throughout the course
+
+43
+00:03:16,980 --> 00:03:21,000
+and that is that I've broken lessons down into smaller parts.
+
+44
+00:03:21,030 --> 00:03:24,290
+If you have a long video that's 45 minutes long.
+
+45
+00:03:24,390 --> 00:03:27,730
+It can be quite difficult to go through that whole thing.
+
+46
+00:03:27,810 --> 00:03:28,050
+Right.
+
+47
+00:03:28,050 --> 00:03:31,430
+It can be something that you might think about for a whole week.
+
+48
+00:03:31,440 --> 00:03:34,700
+Oh I have to do this 45 minute video right.
+
+49
+00:03:34,710 --> 00:03:42,210
+It's like it's like needing to run up a big hill but if it's smaller if it's 10 minutes it's easier
+
+50
+00:03:42,210 --> 00:03:45,150
+to digest the Hill is a little smaller.
+
+51
+00:03:45,150 --> 00:03:51,230
+So even though it's part of a larger lesson each piece is easier to eat.
+
+52
+00:03:51,270 --> 00:03:53,280
+Each Hill is smaller.
+
+53
+00:03:53,340 --> 00:03:55,140
+So that's why I've done that.
+
+54
+00:03:55,140 --> 00:03:58,840
+The lessons are broken up into smaller pieces.
+
+55
+00:03:58,920 --> 00:04:04,680
+Now things I'd like you to keep in mind throughout the course keep in mind means things to remember
+
+56
+00:04:04,950 --> 00:04:05,880
+throughout the course.
+
+57
+00:04:05,880 --> 00:04:09,370
+Number one it's very important that you take notes.
+
+58
+00:04:09,450 --> 00:04:13,590
+If you're sitting down at your computer if you're using your phone whatever.
+
+59
+00:04:13,590 --> 00:04:14,610
+Take notes.
+
+60
+00:04:14,610 --> 00:04:16,800
+If you take notes on your computer that's fine.
+
+61
+00:04:16,860 --> 00:04:19,950
+You want to take notes on a piece of paper or in a notebook.
+
+62
+00:04:20,010 --> 00:04:20,520
+That's fine.
+
+63
+00:04:20,520 --> 00:04:27,780
+I don't care but you want to take notes so that you're doing some action connected to what you're learning.
+
+64
+00:04:27,780 --> 00:04:32,490
+If you're only listening it may be hard to remember the things that you're learning.
+
+65
+00:04:32,490 --> 00:04:38,480
+But if you have some action you're putting the things that you're learning into the real world.
+
+66
+00:04:38,610 --> 00:04:43,950
+And by doing that the things that you're learning are going to stick more next.
+
+67
+00:04:44,070 --> 00:04:49,930
+Don't hurry through this course if you rush through this course and try to finish it in several days.
+
+68
+00:04:49,950 --> 00:04:55,590
+I think that you'll probably miss a lot of stuff unless you're a super genius and great at remembering
+
+69
+00:04:55,590 --> 00:04:57,170
+every little thing you hear.
+
+70
+00:04:57,330 --> 00:05:03,210
+I recommend that you take your time watch one video a day or one video every two days.
+
+71
+00:05:03,220 --> 00:05:04,180
+That's OK.
+
+72
+00:05:04,180 --> 00:05:05,680
+Don't rush through the course.
+
+73
+00:05:05,680 --> 00:05:11,920
+When you take your time you allow yourself time to practice what you've learned to review your notes
+
+74
+00:05:12,310 --> 00:05:17,160
+and to just think about what you heard in the previous lesson.
+
+75
+00:05:17,290 --> 00:05:22,920
+That time to think is as important as actually learning the stuff right.
+
+76
+00:05:22,930 --> 00:05:26,560
+When you become a painter you paint and then you think oh I don't like this.
+
+77
+00:05:26,560 --> 00:05:27,880
+I could be better you go away.
+
+78
+00:05:27,880 --> 00:05:30,280
+You think about what you did and what you could do better.
+
+79
+00:05:30,280 --> 00:05:33,190
+You come back and then you paint better the next time.
+
+80
+00:05:33,190 --> 00:05:36,550
+Well that's true for a lot of things and it's true for learning as well.
+
+81
+00:05:36,580 --> 00:05:43,270
+So I recommend that you have some space between each video so that you have time to review you have
+
+82
+00:05:43,270 --> 00:05:51,580
+time to practice and you have time to reflect to reflect means to think walk around look at the clouds.
+
+83
+00:05:51,580 --> 00:05:54,070
+Have a cup of coffee whatever you need to do.
+
+84
+00:05:54,070 --> 00:05:54,540
+OK.
+
+85
+00:05:54,640 --> 00:05:55,810
+Very important as well.
+
+86
+00:05:55,810 --> 00:05:57,530
+Next you need to review.
+
+87
+00:05:57,640 --> 00:06:01,660
+You've got a review with each lesson there's something you can practice.
+
+88
+00:06:01,690 --> 00:06:05,440
+And I've attached basically an assignment to each lesson.
+
+89
+00:06:05,440 --> 00:06:08,870
+What you can do to practice what you've learned.
+
+90
+00:06:08,870 --> 00:06:15,010
+There's one really great way to practice English spoken English without actually talking with a friend.
+
+91
+00:06:15,010 --> 00:06:18,790
+Now it's great if you can great if you have a teacher that's great.
+
+92
+00:06:18,790 --> 00:06:20,270
+You have a friend you can talk with.
+
+93
+00:06:20,320 --> 00:06:21,300
+That's wonderful.
+
+94
+00:06:21,340 --> 00:06:28,070
+But if you want to practice the stuff that you've learned in each lesson by itself by yourself.
+
+95
+00:06:28,210 --> 00:06:35,500
+Turn on your phone open the recording app or whatever you want to use and record the practice that is
+
+96
+00:06:35,520 --> 00:06:36,340
+sign.
+
+97
+00:06:36,430 --> 00:06:41,740
+So by recording yourself you're you're doing what I mentioned earlier when you're taking notes you are
+
+98
+00:06:41,740 --> 00:06:44,620
+putting something out there you're making something.
+
+99
+00:06:44,620 --> 00:06:49,920
+Input output input output input an output go very well together.
+
+100
+00:06:49,960 --> 00:06:55,790
+When it comes to learning and recording is a great way to do output output.
+
+101
+00:06:56,020 --> 00:07:02,050
+When it comes to learning languages when it comes to learning new spoken skills.
+
+102
+00:07:02,050 --> 00:07:08,010
+Then if you feel like you didn't really get something go back and review watch a lesson twice.
+
+103
+00:07:08,010 --> 00:07:13,160
+Watch a lesson three times if you need to when you finish this course go back and watch it again.
+
+104
+00:07:13,210 --> 00:07:20,250
+Whenever I read a book I usually read that book twice that way I make sure I don't miss anything right.
+
+105
+00:07:20,290 --> 00:07:24,040
+If I went through it once I might have missed a couple of small things.
+
+106
+00:07:24,070 --> 00:07:29,600
+I go back I can catch those things that I might have missed the first time through.
+
+107
+00:07:29,650 --> 00:07:35,110
+I want to just mention one thing that's very important and something I would like you to keep in mind
+
+108
+00:07:35,680 --> 00:07:40,840
+as you go through this course and that is the importance of awareness as you're practicing what you
+
+109
+00:07:40,840 --> 00:07:41,470
+learn.
+
+110
+00:07:41,530 --> 00:07:45,640
+It's very important to be able to pay attention to what you're saying.
+
+111
+00:07:45,640 --> 00:07:50,470
+A lot of people when they're there speaking they don't pay attention to what sounds are coming out of
+
+112
+00:07:50,920 --> 00:07:52,520
+their own mouths.
+
+113
+00:07:52,520 --> 00:07:56,570
+Got to be able to pay attention to what you say.
+
+114
+00:07:56,740 --> 00:08:02,410
+So that recording exercise is a great way to do that because you're catching things that you wouldn't
+
+115
+00:08:02,680 --> 00:08:08,920
+normally catch but then you can start to do that for yourself when you're speaking and that allows you
+
+116
+00:08:08,920 --> 00:08:10,590
+to build better habits.
+
+117
+00:08:10,600 --> 00:08:17,440
+So I hope you can as you go through this course pay very careful attention to not only the sounds that
+
+118
+00:08:17,470 --> 00:08:23,650
+I'm making right and the way that I'm saying what I'm saying but also when you're practicing what you're
+
+119
+00:08:23,650 --> 00:08:29,380
+saying and the sounds that you're making and how you're saying what you're saying it's very very important
+
+120
+00:08:29,390 --> 00:08:36,970
+so develop your awareness and that is the key to the next step which is building better habits building
+
+121
+00:08:36,970 --> 00:08:43,360
+better habits is the key to ultimately becoming a more natural English speaker.
+
+122
+00:08:43,360 --> 00:08:48,910
+Finally before we get started on the first lesson of this course I'd like you to remember to keep an
+
+123
+00:08:48,940 --> 00:08:56,590
+open mind if there's something that you think is true about English maybe you learned that in school
+
+124
+00:08:56,590 --> 00:08:58,510
+and it's not quite right.
+
+125
+00:08:58,510 --> 00:09:07,360
+So be open minded maybe maybe a way that you've learned is either incorrect or correct and not natural
+
+126
+00:09:07,960 --> 00:09:14,350
+maybe native English speakers say something a different way even though that different way is not technically
+
+127
+00:09:14,680 --> 00:09:15,580
+correct.
+
+128
+00:09:15,580 --> 00:09:22,090
+There are many examples of that in native spoken English and I will share some of those in this course.
+
+129
+00:09:22,100 --> 00:09:22,520
+OK.
+
+130
+00:09:22,600 --> 00:09:28,750
+So I'd like you to make a commitment to yourself to be open minded if you're close minded and you're
+
+131
+00:09:28,750 --> 00:09:29,860
+always saying well that can't be right.
+
+132
+00:09:29,860 --> 00:09:30,460
+That can't be right.
+
+133
+00:09:30,460 --> 00:09:31,290
+That can't be right.
+
+134
+00:09:31,450 --> 00:09:33,960
+Then you're not going to learn as much.
+
+135
+00:09:33,970 --> 00:09:41,200
+So I encourage you to be more like a sponge a sponge absorbs things then the more you absorb you can
+
+136
+00:09:41,200 --> 00:09:45,740
+begin to process it and you can start using it in your daily life.
+
+137
+00:09:45,760 --> 00:09:53,140
+Learning English is all about ultimately really it's about learning to communicate with other people
+
+138
+00:09:53,230 --> 00:09:56,170
+in writing or in conversation.
+
+139
+00:09:56,170 --> 00:10:02,980
+And that's the main point of this course to give you the skills and the knowledge that you need to go
+
+140
+00:10:02,980 --> 00:10:12,240
+out into the world and use your language skills to communicate with people in a wide variety of situations.
+
+141
+00:10:12,250 --> 00:10:19,720
+This course will help you in many different areas improve your skills improve your knowledge and improve
+
+142
+00:10:19,990 --> 00:10:26,490
+your ability to communicate in English with other people and without any more delay.
+
+143
+00:10:26,560 --> 00:10:32,530
+Let's go to the actual first lesson of the course and I want to just say that I hope you enjoy it.

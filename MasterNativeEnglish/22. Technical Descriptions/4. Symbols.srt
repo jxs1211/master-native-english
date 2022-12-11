@@ -1,0 +1,1047 @@
+1
+00:00:00,180 --> 00:00:07,590
+So far in this lesson on technical language technical descriptions we've talked about things in sequence
+
+2
+00:00:07,830 --> 00:00:09,330
+and dates.
+
+3
+00:00:09,330 --> 00:00:12,410
+Now we're going to focus on symbols not every symbol.
+
+4
+00:00:12,420 --> 00:00:14,010
+There are billions of symbols.
+
+5
+00:00:14,010 --> 00:00:18,210
+We're going to talk about the common symbols that you find on your keyboard.
+
+6
+00:00:18,210 --> 00:00:23,340
+And we're not going to talk about every one but we're going to talk about the ones that you come across
+
+7
+00:00:23,850 --> 00:00:27,270
+relatively often when we need to say them.
+
+8
+00:00:27,360 --> 00:00:33,060
+And when we don't need to say them this is one of the more confusing things that I find a lot of English
+
+9
+00:00:33,060 --> 00:00:34,890
+learners come across.
+
+10
+00:00:34,890 --> 00:00:37,280
+Should I say this or not.
+
+11
+00:00:37,290 --> 00:00:44,430
+Is this symbol here as just a mark to let me know or to organize something so that I kind of know what's
+
+12
+00:00:44,430 --> 00:00:48,230
+going on or do I actually need to speak something here.
+
+13
+00:00:48,300 --> 00:00:49,000
+How do I know.
+
+14
+00:00:49,020 --> 00:00:51,110
+Well we can go through some of these things.
+
+15
+00:00:51,150 --> 00:00:51,710
+OK.
+
+16
+00:00:51,750 --> 00:00:57,720
+I mean obviously you know at the end of a sentence you have this thing and it's called the period and
+
+17
+00:00:57,720 --> 00:00:59,270
+you don't say period.
+
+18
+00:00:59,460 --> 00:01:08,540
+You don't say Mary had a cat named Bob period unless you're dictating nowadays.
+
+19
+00:01:08,910 --> 00:01:18,180
+You can use your phone or your computer or whatever to speak and many kinds of software at the moment
+
+20
+00:01:18,420 --> 00:01:23,340
+require you to say period when you want to end the sentence.
+
+21
+00:01:23,340 --> 00:01:28,470
+So yes usually you don't need to but recently you need to more often.
+
+22
+00:01:28,470 --> 00:01:34,670
+I often use dictation with my phone and I speak and I say Mary had a cat period.
+
+23
+00:01:34,830 --> 00:01:40,290
+Her cat was yellow period to it writes down a period when I went to there are I guess what I'm trying
+
+24
+00:01:40,290 --> 00:01:47,070
+to say is there are always some cases when you need to be able to actually say all of these otherwise
+
+25
+00:01:47,190 --> 00:01:47,850
+useless.
+
+26
+00:01:47,850 --> 00:01:48,080
+All right.
+
+27
+00:01:48,120 --> 00:01:50,000
+This symbol it's called a percent.
+
+28
+00:01:50,020 --> 00:01:57,240
+Think you know it 70 percent of people living in love of love.
+
+29
+00:01:57,390 --> 00:01:57,920
+OK.
+
+30
+00:01:58,080 --> 00:02:06,000
+This is a percent symbol percent symbol and it is almost always actually said when written almost always
+
+31
+00:02:06,000 --> 00:02:07,350
+actually said when written.
+
+32
+00:02:07,350 --> 00:02:13,680
+Sometimes you might see it just as a visual reference but usually when you come across it you should
+
+33
+00:02:13,740 --> 00:02:14,730
+read it.
+
+34
+00:02:14,750 --> 00:02:15,750
+OK.
+
+35
+00:02:15,870 --> 00:02:21,930
+We could say maybe a zero point two percent interest rate.
+
+36
+00:02:22,020 --> 00:02:27,690
+There will be some cases when you might see it in front of the number but you should still say zero
+
+37
+00:02:27,690 --> 00:02:29,370
+point two percent.
+
+38
+00:02:29,400 --> 00:02:36,750
+So one of the difficult things when you're reading out some technical language is you'll see symbols
+
+39
+00:02:36,750 --> 00:02:42,410
+in different places and what you say is actually not the order that you're reading it in.
+
+40
+00:02:42,600 --> 00:02:48,630
+So you're reading percent zero point two sometimes you're saying zero point two percent.
+
+41
+00:02:48,750 --> 00:02:53,160
+It's the same for for example the dollar sign.
+
+42
+00:02:53,160 --> 00:02:54,800
+This is called a dollar sign.
+
+43
+00:02:54,800 --> 00:02:56,070
+And I'm sure you already know that.
+
+44
+00:02:56,070 --> 00:02:58,810
+So we don't really need to focus on it in this lesson.
+
+45
+00:02:58,950 --> 00:03:01,200
+But you would see something like that.
+
+46
+00:03:01,230 --> 00:03:08,300
+You don't say dollar five and you don't say dollar sign five you say five dollars.
+
+47
+00:03:08,310 --> 00:03:16,410
+So in many cases four different symbols you will have to read things out loud differently than your
+
+48
+00:03:16,410 --> 00:03:18,840
+eyes actually see them.
+
+49
+00:03:18,840 --> 00:03:19,530
+All right.
+
+50
+00:03:19,530 --> 00:03:21,760
+Let's go on to this one.
+
+51
+00:03:21,780 --> 00:03:26,520
+This one can be called a no sign a hash or pound.
+
+52
+00:03:26,700 --> 00:03:29,030
+When is it used for each of these.
+
+53
+00:03:29,070 --> 00:03:33,550
+So the number sign is generally not spoken.
+
+54
+00:03:33,550 --> 00:03:38,670
+OK if it's spoken you would just say no you won't say no sign I'll just say no.
+
+55
+00:03:38,670 --> 00:03:46,650
+So if you see this written down somewhere things in order maybe you're calling out names number seven.
+
+56
+00:03:46,650 --> 00:03:47,940
+Who's number seven.
+
+57
+00:03:47,940 --> 00:03:49,220
+Number seven here.
+
+58
+00:03:49,290 --> 00:03:49,520
+OK.
+
+59
+00:03:49,560 --> 00:03:50,550
+So you would say just.
+
+60
+00:03:50,550 --> 00:03:51,690
+Number seven.
+
+61
+00:03:51,690 --> 00:03:54,250
+Number five hundred fifty three maybe.
+
+62
+00:03:54,270 --> 00:03:59,100
+I don't know maybe there is some sort of drawing and there's a random number in a bucket and you take
+
+63
+00:03:59,100 --> 00:04:05,040
+one out number 62 which is number 60 to see here number 60 to say no.
+
+64
+00:04:05,060 --> 00:04:05,460
+OK.
+
+65
+00:04:05,460 --> 00:04:10,300
+Generally it's there to just reference the number and we don't say this part.
+
+66
+00:04:10,380 --> 00:04:13,050
+OK hash it's also called the hash.
+
+67
+00:04:13,050 --> 00:04:20,040
+This started to become much more popular recently in the last I don't know maybe ten years because it's
+
+68
+00:04:20,040 --> 00:04:25,570
+part of another word which is hash tag on social media.
+
+69
+00:04:25,620 --> 00:04:30,530
+It's a G on social media Twitter wave for Facebook.
+
+70
+00:04:30,660 --> 00:04:32,990
+Facebook is Facebook have hashtags.
+
+71
+00:04:33,000 --> 00:04:41,220
+I think so you see hashtags to let you know what's going on with the post that's been that's been shared
+
+72
+00:04:41,220 --> 00:04:45,300
+on your your home feed or whatever or what it's related to.
+
+73
+00:04:45,300 --> 00:04:51,060
+You can search for other posts that have the same idea or they're related to the same topic.
+
+74
+00:04:51,060 --> 00:04:51,990
+It's called the hash tag.
+
+75
+00:04:52,020 --> 00:04:55,620
+So when I'm recording this Instagram is quite popular.
+
+76
+00:04:55,620 --> 00:04:58,400
+That of course always changes from year to year.
+
+77
+00:04:58,430 --> 00:05:05,500
+But let's say there's a hash tag insta insta good I think is the number one hashtag.
+
+78
+00:05:05,520 --> 00:05:10,160
+I'm not even sure what it means to be honest with you or hash tag.
+
+79
+00:05:10,260 --> 00:05:15,830
+I can make my own if I write my name here where you make where you post things on Instagram if it's
+
+80
+00:05:15,840 --> 00:05:16,700
+still there.
+
+81
+00:05:16,710 --> 00:05:20,220
+Hashtag Luke pretty you say the word hashtag.
+
+82
+00:05:20,230 --> 00:05:23,150
+OK so that's become much more popular recently.
+
+83
+00:05:23,170 --> 00:05:26,240
+Pound is something that you hear on the phone.
+
+84
+00:05:26,310 --> 00:05:31,950
+If you get an automated message on the phone they'll say please press pound once you're finished with
+
+85
+00:05:31,950 --> 00:05:36,450
+your recording or when you're finished with your recording please press pound.
+
+86
+00:05:36,510 --> 00:05:39,010
+So you'll see that symbol on the phone.
+
+87
+00:05:39,210 --> 00:05:43,470
+And you push it if you'd like to speak with an operator please press pound.
+
+88
+00:05:43,470 --> 00:05:46,350
+So you hear that often in a recorded message.
+
+89
+00:05:46,410 --> 00:05:53,630
+So generally you won't need to say pound you might often more often say hashtag.
+
+90
+00:05:53,730 --> 00:05:58,140
+And sometimes you might need to say no but not no sign.
+
+91
+00:05:58,290 --> 00:06:06,360
+Now the next one is very common and sometimes it's said sometimes it's not said minus sign is just like
+
+92
+00:06:06,360 --> 00:06:07,120
+no sign.
+
+93
+00:06:07,150 --> 00:06:14,250
+We don't say sign but we do say minus and we'll talk more about it when we're talking about math problems.
+
+94
+00:06:14,250 --> 00:06:21,480
+But we would say for example seven minus seven seven minus seven.
+
+95
+00:06:21,630 --> 00:06:30,400
+Or sometimes we'll say I'll have tomatoes and onions minus cucumber minus cucumber.
+
+96
+00:06:30,420 --> 00:06:33,480
+That means please take away the cucumber.
+
+97
+00:06:33,480 --> 00:06:35,790
+Now sometimes it's a dash.
+
+98
+00:06:35,790 --> 00:06:42,690
+And if it's written in a number not for an equation not for a math problem but in a number like in an
+
+99
+00:06:42,750 --> 00:06:51,820
+email address for example or maybe a user name then you will say dash dash dash OK.
+
+100
+00:06:51,890 --> 00:06:56,920
+And you actually should speak dash for phone numbers don't actually say it.
+
+101
+00:06:56,970 --> 00:07:03,300
+The best way to think of it is if you need to take action on that and actually input it actually input
+
+102
+00:07:03,480 --> 00:07:05,420
+input that then you should say it.
+
+103
+00:07:05,430 --> 00:07:14,580
+For example if you're typing out someone's user name to find them then OK say dash B maybe a dash VBA
+
+104
+00:07:14,610 --> 00:07:15,720
+whatever it is.
+
+105
+00:07:15,720 --> 00:07:16,250
+OK.
+
+106
+00:07:16,320 --> 00:07:22,860
+Phone numbers not don't say dash because if it's a phone number it's just there to separate the numbers
+
+107
+00:07:23,220 --> 00:07:25,780
+and you don't actually put that into the phone.
+
+108
+00:07:25,980 --> 00:07:27,210
+So don't say it.
+
+109
+00:07:27,630 --> 00:07:28,160
+OK.
+
+110
+00:07:28,170 --> 00:07:31,620
+Hyphens are four words for example.
+
+111
+00:07:31,620 --> 00:07:33,040
+Thirty two.
+
+112
+00:07:33,090 --> 00:07:40,530
+We don't say 30 hyphen two but when we're talking about words when we're talking about sentences then
+
+113
+00:07:40,530 --> 00:07:45,120
+we use hyphen is there a hyphen between 30 and 2.
+
+114
+00:07:45,150 --> 00:07:45,930
+Yes there is.
+
+115
+00:07:45,930 --> 00:07:48,050
+There is a hyphen between 30 and 2.
+
+116
+00:07:48,070 --> 00:07:48,270
+OK.
+
+117
+00:07:48,300 --> 00:07:56,940
+So we can use the word hyphen to describe this thing between words but we don't actually speak the word
+
+118
+00:07:56,970 --> 00:08:00,120
+hyphen when we're reading out a sentence.
+
+119
+00:08:00,120 --> 00:08:01,650
+Never never never.
+
+120
+00:08:01,650 --> 00:08:06,260
+We only use the word hyphen to describe what that is between words.
+
+121
+00:08:06,270 --> 00:08:06,560
+OK.
+
+122
+00:08:06,570 --> 00:08:14,970
+So minus sign for math minus to take something away but we don't say sine dash for things like email
+
+123
+00:08:14,970 --> 00:08:19,850
+addresses user names but not phone numbers and hyphen.
+
+124
+00:08:19,890 --> 00:08:23,460
+But we don't say it it's just a name for what we see.
+
+125
+00:08:23,550 --> 00:08:27,910
+If there's this symbol between words like this one.
+
+126
+00:08:27,910 --> 00:08:28,250
+OK.
+
+127
+00:08:28,290 --> 00:08:31,630
+I realize I've killed my s h here.
+
+128
+00:08:31,630 --> 00:08:33,420
+So let me fix that.
+
+129
+00:08:33,420 --> 00:08:34,200
+There we are.
+
+130
+00:08:34,200 --> 00:08:35,220
+Sorry sir.
+
+131
+00:08:35,640 --> 00:08:36,340
+OK.
+
+132
+00:08:36,480 --> 00:08:44,610
+So let's talk about underscore underscore we pretty much always say underscore when we see it sometimes
+
+133
+00:08:44,610 --> 00:08:51,090
+it might be in a user name sometimes in an email address but because you actually need to put it in
+
+134
+00:08:51,120 --> 00:08:53,830
+to input it and if you don't it will be wrong.
+
+135
+00:08:53,880 --> 00:08:59,760
+You'll find the wrong person then it has to be said Steve underscore Steve at blah blah blah.
+
+136
+00:08:59,760 --> 00:09:02,550
+Dot com that is maybe an email address.
+
+137
+00:09:02,550 --> 00:09:03,600
+So we should say it.
+
+138
+00:09:03,630 --> 00:09:06,030
+We should say it the next one is parentheses.
+
+139
+00:09:06,030 --> 00:09:08,640
+These are always pretty much always go together.
+
+140
+00:09:08,640 --> 00:09:10,360
+You don't see one alone.
+
+141
+00:09:10,380 --> 00:09:12,180
+You don't see just this one or this one.
+
+142
+00:09:12,240 --> 00:09:18,270
+So we pretty much always say parentheses will say the word parentheses first and then say the thing
+
+143
+00:09:18,360 --> 00:09:19,740
+inside of it.
+
+144
+00:09:19,740 --> 00:09:27,910
+Now sometimes we will just say Alex co-founder Alex co-founder that's his role or his.
+
+145
+00:09:28,050 --> 00:09:32,000
+What he does in this company maybe this is at the end of an email.
+
+146
+00:09:32,040 --> 00:09:38,550
+Alex co-founder if if we want to make sure people know maybe we're on the phone that this is within
+
+147
+00:09:38,550 --> 00:09:48,000
+parentheses maybe it's in a sentence you can say Alex parentheses co-founder Alex parentheses co-founder.
+
+148
+00:09:48,030 --> 00:09:53,780
+OK so that's when we would actually say parentheses or if we're going to describe it you could say oh
+
+149
+00:09:53,850 --> 00:10:02,490
+it's by the way co-founder is in parentheses co-founder is in Peru sees if it's a phone number though
+
+150
+00:10:02,550 --> 00:10:04,010
+we don't say it.
+
+151
+00:10:04,050 --> 00:10:08,730
+So if you see Parentheses in a phone number never say it because why not.
+
+152
+00:10:08,730 --> 00:10:14,010
+Because when you're putting in the number you don't actually put that in you don't input it.
+
+153
+00:10:14,010 --> 00:10:20,550
+So usually we don't need to say it because most of the time it's in that sort of situation.
+
+154
+00:10:20,550 --> 00:10:27,820
+Often we don't need to actually say parentheses because it just tells us a little bit of extra information.
+
+155
+00:10:27,840 --> 00:10:32,650
+So only if it's necessary to know that it is inside of parentheses.
+
+156
+00:10:32,790 --> 00:10:34,170
+Do we actually say it.
+
+157
+00:10:34,230 --> 00:10:40,080
+And sometimes we can make the decision whether or not to say it based on whether or not we feel it's
+
+158
+00:10:40,080 --> 00:10:45,870
+important for people to know who are listening that it is inside parentheses.
+
+159
+00:10:45,870 --> 00:10:51,450
+So quotes or quotation marks often tell us that something was said.
+
+160
+00:10:51,540 --> 00:10:57,510
+And so when we're reading something out we don't have to say quotation mark because it is.
+
+161
+00:10:57,600 --> 00:10:59,240
+So we're just saying what that person said.
+
+162
+00:10:59,250 --> 00:11:02,280
+She said I can't I can't.
+
+163
+00:11:02,460 --> 00:11:09,780
+But sometimes maybe if she said isn't there and I just want to say I can't.
+
+164
+00:11:09,780 --> 00:11:16,050
+And I want to make sure you know that it's something someone said and I'm not saying it.
+
+165
+00:11:16,050 --> 00:11:23,050
+Then I have to say by the way that's in quotes that's in quotes that's in quotation marks.
+
+166
+00:11:23,130 --> 00:11:24,640
+Usually we'll say quotes.
+
+167
+00:11:24,660 --> 00:11:27,250
+So by the way I can't it's not what I'm saying.
+
+168
+00:11:27,270 --> 00:11:28,410
+It's in quotes.
+
+169
+00:11:28,410 --> 00:11:30,810
+So we won't actually say quotation mark.
+
+170
+00:11:30,810 --> 00:11:31,430
+I can't.
+
+171
+00:11:31,430 --> 00:11:32,700
+Quotation mark.
+
+172
+00:11:32,700 --> 00:11:33,240
+No.
+
+173
+00:11:33,240 --> 00:11:34,970
+We'll say I can't.
+
+174
+00:11:35,040 --> 00:11:45,150
+That's in quotes or quote I can't quote I can't say we'll say either quote I can't or that's in quotation
+
+175
+00:11:45,240 --> 00:11:50,580
+marks or that's in quotations or that's in quotes.
+
+176
+00:11:50,580 --> 00:11:52,740
+This one as I mentioned is air quotes.
+
+177
+00:11:52,740 --> 00:12:00,050
+If someone is looking at you she said I can't I can't I'm telling you that I'm not saying my own words.
+
+178
+00:12:00,060 --> 00:12:03,180
+I'm saying someone else's words.
+
+179
+00:12:03,180 --> 00:12:10,770
+And it's a way to sort of mark that forward slash and backslash almost always said because usually it's
+
+180
+00:12:10,770 --> 00:12:17,160
+in a you are L most of the time when you see these it's in a U.R.L. you need to be able to type that
+
+181
+00:12:17,160 --> 00:12:20,510
+in when you're when you're putting in the U.R.L..
+
+182
+00:12:20,570 --> 00:12:23,500
+So we'll say forward slash backslash.
+
+183
+00:12:23,550 --> 00:12:28,680
+Sometimes it's just set as Slash if it's in a sentence for example.
+
+184
+00:12:28,680 --> 00:12:30,260
+And there are two options.
+
+185
+00:12:30,270 --> 00:12:38,010
+For example you could have a banana or Apple and it's telling you that you can choose a banana slash
+
+186
+00:12:38,070 --> 00:12:46,300
+apple banana slash Apple OK or sometimes you could say banana or apple banana or Apple.
+
+187
+00:12:46,310 --> 00:12:51,540
+OK so you could say or there or you could say slash there if it's in a U R L it's very very important
+
+188
+00:12:51,540 --> 00:12:59,310
+to make sure to say this one or this one because forward slash goes this way and backslash goes that
+
+189
+00:12:59,310 --> 00:12:59,850
+way.
+
+190
+00:12:59,850 --> 00:13:02,730
+So it's very important to say which one you're talking about.
+
+191
+00:13:02,730 --> 00:13:08,520
+Comma is pretty much never said it's only said to describe what this thing is.
+
+192
+00:13:08,510 --> 00:13:10,570
+This thing is called a comma.
+
+193
+00:13:10,620 --> 00:13:11,820
+This is a comma.
+
+194
+00:13:11,820 --> 00:13:19,360
+If you're doing dictation like I mentioned before then you might actually say comma I said comma that.
+
+195
+00:13:19,860 --> 00:13:24,590
+OK but most of the time you do not need to actually say it when you read it.
+
+196
+00:13:24,600 --> 00:13:30,900
+Ninety nine point nine nine percent unless you are dictating what about Colon.
+
+197
+00:13:30,900 --> 00:13:37,080
+What about Colon if you remember in our email class we used a colon to create a list.
+
+198
+00:13:37,080 --> 00:13:45,030
+It's called a colon colon and we used it to create one 2 three things or two things I think it was that
+
+199
+00:13:45,030 --> 00:13:47,370
+needed to be done a request.
+
+200
+00:13:47,760 --> 00:13:54,730
+So we'll often say please do the following then we'll write a colon then we'll say 1 2 and 3.
+
+201
+00:13:54,750 --> 00:14:03,100
+So usually you do not need to say colon colon unless you're describing something like what you're doing.
+
+202
+00:14:03,270 --> 00:14:06,650
+And then I wrote colon 1 2 3.
+
+203
+00:14:06,720 --> 00:14:13,350
+But if you're actually just reading for example that email that we read in the class about writing emails
+
+204
+00:14:13,680 --> 00:14:15,180
+you do not need to say colon.
+
+205
+00:14:15,180 --> 00:14:22,920
+So this is very similar to comma and in fact semicolon is the same way most of the time you do not need
+
+206
+00:14:22,920 --> 00:14:27,720
+to read out semicolon unless you're describing what you're doing.
+
+207
+00:14:27,720 --> 00:14:29,490
+You need a semicolon here.
+
+208
+00:14:29,490 --> 00:14:34,480
+I think if you put a semicolon there then the whole sentence will make more sense.
+
+209
+00:14:34,500 --> 00:14:34,850
+Oh yeah.
+
+210
+00:14:34,860 --> 00:14:35,900
+Good idea.
+
+211
+00:14:36,030 --> 00:14:44,580
+So you need to know these things like commas colons periods to help other people maybe with their grammar
+
+212
+00:14:44,580 --> 00:14:46,730
+with their sentences.
+
+213
+00:14:47,010 --> 00:14:53,910
+Otherwise you don't need to actually say them an asterisk is usually used to reference or mentions something
+
+214
+00:14:53,910 --> 00:14:54,690
+below.
+
+215
+00:14:54,690 --> 00:15:02,630
+Maybe this is beside a name or a statement about a product on a box and then at the bottom you need
+
+216
+00:15:02,630 --> 00:15:04,950
+to read more details about that.
+
+217
+00:15:05,000 --> 00:15:08,750
+So if you see an asterisk you don't need to say asterisk.
+
+218
+00:15:08,750 --> 00:15:10,970
+You just look at the bottom of the box.
+
+219
+00:15:11,000 --> 00:15:15,410
+So in that way it's kind of similar to these where you really only need to say it.
+
+220
+00:15:15,500 --> 00:15:22,310
+If you're talking about that thing or you really need to say oh there's an asterisk there I wonder what
+
+221
+00:15:22,310 --> 00:15:29,690
+it says at the bottom of the page or at the bottom of the box star then is used on a phone if it's on
+
+222
+00:15:29,690 --> 00:15:33,820
+a phone it's called a star if it's on a page a product a box.
+
+223
+00:15:33,860 --> 00:15:35,770
+It's called an asterisk.
+
+224
+00:15:35,780 --> 00:15:36,180
+OK.
+
+225
+00:15:36,200 --> 00:15:41,160
+Sometimes you need to say you need to press star you need to press star.
+
+226
+00:15:41,330 --> 00:15:42,320
+Usually not.
+
+227
+00:15:42,320 --> 00:15:48,060
+Not many things require you to push the star key but sometimes right.
+
+228
+00:15:48,060 --> 00:15:52,130
+Sometimes on a computer keyboard it's an asterisk on a phone.
+
+229
+00:15:52,130 --> 00:15:52,880
+It's a star.
+
+230
+00:15:52,940 --> 00:15:54,790
+That's a simple way to remember it.
+
+231
+00:15:54,800 --> 00:15:55,090
+All right.
+
+232
+00:15:55,100 --> 00:16:02,690
+Well how about this one the old classic period that we talked about at the beginning of our symbols
+
+233
+00:16:02,750 --> 00:16:03,850
+discussion.
+
+234
+00:16:03,860 --> 00:16:05,530
+Well it's called a dot.
+
+235
+00:16:05,540 --> 00:16:12,470
+It's called a period and it's called a point just like comma colon semicolon an asterisk.
+
+236
+00:16:12,470 --> 00:16:20,350
+We typically don't need to and also hyphen we typically don't need to say this when we read it period.
+
+237
+00:16:20,390 --> 00:16:27,560
+But as I mentioned earlier if you're dictating you do or if you're making a clear point about something
+
+238
+00:16:28,090 --> 00:16:31,660
+and you want to focus on the fact that there's no way around it.
+
+239
+00:16:31,850 --> 00:16:33,850
+I'm going tomorrow.
+
+240
+00:16:33,950 --> 00:16:35,120
+I don't care if it rains.
+
+241
+00:16:35,450 --> 00:16:39,920
+I don't care if you say no I am going period.
+
+242
+00:16:39,980 --> 00:16:45,440
+The meaning of that period if I say it is there's no other option.
+
+243
+00:16:45,440 --> 00:16:47,210
+There's no alternative.
+
+244
+00:16:47,210 --> 00:16:52,040
+I am very very clear about my opinion and nobody can tell me not to.
+
+245
+00:16:52,040 --> 00:16:54,090
+Nothing can stop me usually.
+
+246
+00:16:54,160 --> 00:16:55,310
+So it's very certain.
+
+247
+00:16:55,430 --> 00:16:57,710
+This is the end period.
+
+248
+00:16:58,020 --> 00:16:59,600
+Oh it's usually very serious.
+
+249
+00:16:59,600 --> 00:17:00,360
+OK.
+
+250
+00:17:00,440 --> 00:17:07,360
+Dot would be for things like email addresses so we can consider this one more like e-mail or a U.R.L.
+
+251
+00:17:07,810 --> 00:17:08,530
+Web site.
+
+252
+00:17:08,540 --> 00:17:12,360
+We always say dot com and a point for a number.
+
+253
+00:17:12,440 --> 00:17:23,210
+So for example zero point three or six point two or seven point one so point four numbers period four
+
+254
+00:17:23,210 --> 00:17:29,350
+sentences and dot for you are L's e-mails and things like that.
+
+255
+00:17:29,420 --> 00:17:31,480
+Hopefully you're clear on these symbols.
+
+256
+00:17:31,580 --> 00:17:37,700
+There are lots of others certainly but at least you should have an idea about when you can use these
+
+257
+00:17:37,700 --> 00:17:43,580
+when you should say them when you shouldn't say them and when they're just meant to describe that thing
+
+258
+00:17:43,670 --> 00:17:48,880
+and you only use it when you're talking about for example a hyphen you need a hyphen there.
+
+259
+00:17:48,920 --> 00:17:52,390
+I think really yes you need a hyphen there.
+
+260
+00:17:52,390 --> 00:17:52,990
+Oh OK.
+
+261
+00:17:53,030 --> 00:17:53,720
+Add a hyphen.
+
+262
+00:17:53,750 --> 00:17:56,560
+Now let's go on and actually look at a real example.

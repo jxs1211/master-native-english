@@ -1,0 +1,227 @@
+1
+00:00:00,150 --> 00:00:05,990
+All right so let's look at the graph and I'm going to ask you to remember it because well remember the
+
+2
+00:00:06,150 --> 00:00:07,880
+the basic idea of it.
+
+3
+00:00:07,890 --> 00:00:13,650
+Because I'm going to get rid of it to go over the example of how we describe it because I don't have
+
+4
+00:00:13,650 --> 00:00:15,170
+that much room on the screen.
+
+5
+00:00:15,210 --> 00:00:15,940
+OK.
+
+6
+00:00:16,260 --> 00:00:22,570
+So total fertility rate that means the number of babies born and GDP per capita.
+
+7
+00:00:22,590 --> 00:00:23,580
+We know what that means.
+
+8
+00:00:23,580 --> 00:00:24,110
+OK.
+
+9
+00:00:24,210 --> 00:00:30,940
+Now here we have on this graph we have the total fertility rate over here.
+
+10
+00:00:30,960 --> 00:00:36,930
+That means the number of children per woman in what those cities states.
+
+11
+00:00:36,930 --> 00:00:37,380
+What.
+
+12
+00:00:37,380 --> 00:00:39,430
+Well there is Saudi Arabia.
+
+13
+00:00:39,440 --> 00:00:40,730
+There's Israel.
+
+14
+00:00:40,770 --> 00:00:43,040
+So it's going it's going to be countries.
+
+15
+00:00:43,080 --> 00:00:44,300
+It's gonna be countries.
+
+16
+00:00:44,370 --> 00:00:46,650
+So they each dot is a country.
+
+17
+00:00:46,650 --> 00:00:50,980
+We can know that because we see that these two dots are countries.
+
+18
+00:00:51,420 --> 00:00:57,000
+And maybe you can look up where your country is what is the GDP per capita of your country.
+
+19
+00:00:57,000 --> 00:00:59,790
+What is the fertility rate of your country.
+
+20
+00:00:59,810 --> 00:01:01,940
+Maybe interesting to look up to research.
+
+21
+00:01:01,980 --> 00:01:03,180
+Look up means research.
+
+22
+00:01:03,180 --> 00:01:03,580
+OK.
+
+23
+00:01:03,630 --> 00:01:07,530
+So and by the way I'm just getting this information from the internet.
+
+24
+00:01:07,560 --> 00:01:10,270
+If it's incorrect for some reason I apologize.
+
+25
+00:01:10,310 --> 00:01:16,700
+But we're using it for the example to describe the data because we need to know how to do this.
+
+26
+00:01:16,710 --> 00:01:20,130
+All right now we have the fertility rate here and on the.
+
+27
+00:01:20,130 --> 00:01:21,800
+That's called the y axis.
+
+28
+00:01:21,810 --> 00:01:30,060
+And on the x axis y axis on the x axis we have the GDP per capita.
+
+29
+00:01:30,060 --> 00:01:33,750
+And this is in U.S. dollars and the year we can see is two thousand four.
+
+30
+00:01:33,750 --> 00:01:36,840
+So this information comes from two thousand four.
+
+31
+00:01:36,840 --> 00:01:45,750
+So we have here we could say very very poor countries low GDP per capita wealthier countries up to 40.
+
+32
+00:01:45,750 --> 00:01:50,790
+Looks like about forty one thousand dollars GDP per capita.
+
+33
+00:01:50,880 --> 00:01:57,880
+And then on the side of the poor countries you have generally higher fertility rate.
+
+34
+00:01:57,990 --> 00:02:01,460
+That means more women are having more babies.
+
+35
+00:02:01,470 --> 00:02:01,800
+OK.
+
+36
+00:02:01,800 --> 00:02:04,250
+Women are having more babies on average.
+
+37
+00:02:04,380 --> 00:02:14,790
+And then you can see a sharp drop or a sharp decline in the number of babies that women have as the
+
+38
+00:02:14,820 --> 00:02:17,840
+GDP per capita increases.
+
+39
+00:02:17,850 --> 00:02:22,860
+Now if that's complicated and you can understand what I'm saying don't worry we're going to go over
+
+40
+00:02:22,860 --> 00:02:28,860
+it in text I'm going to read through the example that I've made to describe this and hopefully it will
+
+41
+00:02:28,860 --> 00:02:29,950
+be very clear.
+
+42
+00:02:30,060 --> 00:02:37,770
+I'm using this as a way to show you the language we can use to describe visualizations to describe charts
+
+43
+00:02:37,770 --> 00:02:38,840
+graphs data.
+
+44
+00:02:38,840 --> 00:02:39,150
+OK.
+
+45
+00:02:39,330 --> 00:02:46,300
+So I hope I hope you can sort of take a mental picture of this and notice the trend here.
+
+46
+00:02:46,320 --> 00:02:51,120
+Notice that these countries are the poorer countries the wealthier countries over here.
+
+47
+00:02:51,120 --> 00:02:54,720
+Notice that we have two countries here in the middle.
+
+48
+00:02:54,720 --> 00:02:58,210
+And notice these numbers of nine at the top here.
+
+49
+00:02:58,290 --> 00:03:02,980
+Forty five thousand at the top or at the farthest end over here.
+
+50
+00:03:02,980 --> 00:03:03,370
+OK.
+
+51
+00:03:03,450 --> 00:03:04,860
+So take a mental picture.
+
+52
+00:03:04,860 --> 00:03:05,360
+Ready.
+
+53
+00:03:05,400 --> 00:03:06,840
+One two three.
+
+54
+00:03:07,110 --> 00:03:07,380
+All right.
+
+55
+00:03:07,560 --> 00:03:10,840
+Let's now go on and talk about how we can describe this.
+
+56
+00:03:10,890 --> 00:03:12,110
+No analysis yet.
+
+57
+00:03:12,120 --> 00:03:18,050
+We're not going to talk about what it means yet but we're going to talk about how to describe it clearly.
