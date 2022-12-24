@@ -15,5 +15,10 @@ It's completely beyond our expectation when the building first time revealed in 
 
 ```
 Parenting:
-It's hard to be parent. You have to take care the baby all the time day and night. The baby want you to feed them, play with them, make them happy, handle their pee and shit. I think the most difficult thing of parenting is help them find who they are, what they want, how to gain a meaningful life. It's really a big responsibility because it's not only going to be related to the next generation's furture, but also the happiness of you entire family. So as a parent, we should learn many different things for providing and educating our kids and gradually make ourself growing througout the kids' childhood.
+It's hard to be parent. You have to take care the baby all the time day and night. 
+The baby want you to feed them, play with them, make them happy, handle their pee and shit. 
+I think the most difficult thing of parenting is help them find who they are, what they want,
+how to gain a meaningful life. It's really a big responsibility because it's not only going to be related to the next generation's furture,
+but also the happiness of you entire family. So as a parent, 
+we should learn many different things for providing and educating our kids and gradually make ourself growing througout the kids' childhood.
 ```
