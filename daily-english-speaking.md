@@ -2,6 +2,7 @@
 
 日常用语：
 ```
+You intenionally lie to play dumb./ You have an intension of lying to play dumb.
 明明是a，你要说是b 
 It's obviously a, but you say it's b
 想买个面霜
