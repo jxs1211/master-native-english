@@ -11,7 +11,6 @@ I want/would like to buy a face cream
 I accidentally tore up the book.
 没关系, 看开点
 cheer up，look on the bright side
-
 what's the bright side? it's only one page.
 you're right.
 什么对话才是一个好的对话
