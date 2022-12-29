@@ -20,3 +20,7 @@
   - Due to the ice and snow on the road, there are steep increasing car accidents happend, and there are even 56 car piled-up.
 - resident, heavy, impact, cold
   - Many residents are heavily impacted by the cold weather.
+- general, snooze, liftable, desk
+  - I generally lie down on my liftable dask and snooze for about half an hour at noon.
+- usually, make,  superior, mug
+  - The first thing I'm usually going to do when I arrived the office is make a drink of vietamin tablet with my superior quality mug and sip a cup of coffee.
