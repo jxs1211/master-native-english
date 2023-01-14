@@ -159,10 +159,22 @@ P26
     - Tuesday for writing
     - Tuesday for listening
     - Thursday for speaking
-    - Friday for volcabulary
+    - Friday for vocabulary
   - make your furture self happy
     - your furture self will be very happy if you would learn English today.
   - plan a trip for English country
   - take an English class
   - hire an English tutor
   - book an English test
+
+
+- P89 Learn 12 English Phrases to Use at Work
+ - be back in the swing of things: get used to something after a break or return to a routine
+ - to work out some kinks: solve small problems or relearn certain things to do job or task well.
+ - to roll up your sleeves: to prepare to work hard to do a job well
+ - get down to business: begin to get the regular tasks of job done consistently
+ - the same old same old: something that become a routine and a little bit boring.
+ - go extra mile: done more work than they expect, finish more work than expectation
+ - to pull up your socks/pull your weight: you need to work harder because maybe you doesn't work as hard as everyone
+ - keep your nose to the grindstone: hand work all the time, and consistently get work done, and not take many breaks.
+- stay ahead of the game: get work done early so that you avoid getting behind on tasks or jobs.
