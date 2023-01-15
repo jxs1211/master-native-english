@@ -178,3 +178,13 @@ P26
  - to pull up your socks/pull your weight: you need to work harder because maybe you doesn't work as hard as everyone
  - keep your nose to the grindstone: hand work all the time, and consistently get work done, and not take many breaks.
 - stay ahead of the game: get work done early so that you avoid getting behind on tasks or jobs.
+
+- P90 Learn 9 English Phrases to Express Pet Peeves and Annoying Things
+ - It drives me crazy when the gas tank is empty and I need to drive somewhere.
+ - I hate this, I hate it when someone leave stuff in my path, someone always left something the place I walk there, sometimes it's bikes, sometimes it's toys, sometimes it's stuff that has no business being where they left it.
+ - This is so aggravating when someone scratches the chalkboard with their nails.
+ - It drives me up the wall when people weren't wearing their masks in public.
+ - It drives me nuts when kid leave stuff outside and doesn't clean up themselves after a picnic
+ - It drives me bananas when the squirrels 
+ - It's so annoying, it's a phrase that you could use to describe something is your pet peeves or something you find annoying or even disgusting.
+ - It's so frustrating when someone leaves the milk outside the fridge and it goes bad.
