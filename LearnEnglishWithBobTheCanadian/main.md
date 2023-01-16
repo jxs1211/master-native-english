@@ -169,22 +169,39 @@ P26
 
 
 - P89 Learn 12 English Phrases to Use at Work
- - be back in the swing of things: get used to something after a break or return to a routine
- - to work out some kinks: solve small problems or relearn certain things to do job or task well.
- - to roll up your sleeves: to prepare to work hard to do a job well
- - get down to business: begin to get the regular tasks of job done consistently
- - the same old same old: something that become a routine and a little bit boring.
- - go extra mile: done more work than they expect, finish more work than expectation
- - to pull up your socks/pull your weight: you need to work harder because maybe you doesn't work as hard as everyone
- - keep your nose to the grindstone: hand work all the time, and consistently get work done, and not take many breaks.
-- stay ahead of the game: get work done early so that you avoid getting behind on tasks or jobs.
+   - be back in the swing of things: get used to something after a break or return to a routine
+   - to work out some kinks: solve small problems or relearn certain things to do job or task well.
+   - to roll up your sleeves: to prepare to work hard to do a job well
+   - get down to business: begin to get the regular tasks of job done consistently
+   - the same old same old: something that become a routine and a little bit boring.
+   - go extra mile: done more work than they expect, finish more work than expectation
+   - to pull up your socks/pull your weight: you need to work harder because maybe you doesn't work as hard as everyone
+   - keep your nose to the grindstone: hand work all the time, and consistently get work done, and not take many breaks.
+  - stay ahead of the game: get work done early so that you avoid getting behind on tasks or jobs.
 
 - P90 Learn 9 English Phrases to Express Pet Peeves and Annoying Things
- - It drives me crazy when the gas tank is empty and I need to drive somewhere.
- - I hate this, I hate it when someone leave stuff in my path, someone always left something the place I walk there, sometimes it's bikes, sometimes it's toys, sometimes it's stuff that has no business being where they left it.
- - This is so aggravating when someone scratches the chalkboard with their nails.
- - It drives me up the wall when people weren't wearing their masks in public.
- - It drives me nuts when kid leave stuff outside and doesn't clean up themselves after a picnic
- - It drives me bananas when the squirrels 
- - It's so annoying, it's a phrase that you could use to describe something is your pet peeves or something you find annoying or even disgusting.
- - It's so frustrating when someone leaves the milk outside the fridge and it goes bad.
+   - It drives me crazy when the gas tank is empty and I need to drive somewhere.
+   - I hate this, I hate it when someone leave stuff in my path, someone always left something the place I walk there, sometimes it's bikes, sometimes it's toys, sometimes it's stuff that has no business being where they left it.
+   - This is so aggravating when someone scratches the chalkboard with their nails.
+   - It drives me up the wall when people weren't wearing their masks in public.
+   - It drives me nuts when kid leave stuff outside and doesn't clean up themselves after a picnic
+   - It drives me bananas when the squirrels 
+   - It's so annoying, it's a phrase that you could use to describe something is your pet peeves or something you find annoying or even disgusting.
+   - It's so frustrating when someone leaves the milk outside the fridge and it goes bad.
+
+
+- P93 How to Describe Yourself in English(Also 10 Things You Might Not Know About Me!)
+  - My favorite things\music\... is 
+  - I'm afraid of/ scared of...
+  - I'm a middle child, I have a younger brother\older sister...
+  - I don't like ...., I prefer ...
+  - I was born in ..., my family is originally from ...
+  - Where did you grow up? I grew up out in ...
+  - What do you love in this world? I love technology\ ...
+  - I drink ...\ play ...
+  - I have never done ...(purchased a brand new vehicle)
+  - I used to be ....(worker), I used to do ...(go skiing)
+  - What is your favorite thing to do? 
+  - I like/love ...(cooking, gardening, and reading...)
+  - I would like to ...(visit France)
+  - What country would you like to visit if you got any chance this year?
