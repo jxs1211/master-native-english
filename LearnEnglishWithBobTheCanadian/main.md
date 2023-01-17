@@ -205,3 +205,16 @@ P26
   - I like/love ...(cooking, gardening, and reading...)
   - I would like to ...(visit France)
   - What country would you like to visit if you got any chance this year?
+  
+
+- P114 Have You Ever Quit Learning English Here's How To Get Excited Again!
+  - Redo something old, think of something you used to do when you were learning the language that you really enjoyed or make you excited, for instance maybe there's a comic book that you read when you're first starting to learn the language. or TV drama or movie  that you used to watch
+  - Do something new, The other thing you can do is and it's kinda connecting the new with the old. like new songs, follow-up novels or series.
+  - Past success and future happiness
+    - think about the past when you're incredibly successful and try to remember how that felt
+    - think about how happy you are a year later if you got started learning English from now on.
+    - I got a really good score on the English test in the China's high school entry examination when I was 18 years old.
+  - What went wrong?
+  - Sometimes a break from the routine is the very thing you need
+  - It's not bad to take a break from learning English, even if you took a week or two weeks off
+  - There's nothing wrong with taking a break every once in a while, if you take 4 or 5 months, though, that's might a problem. It's hard to get started again.
