@@ -218,3 +218,29 @@ P26
   - Sometimes a break from the routine is the very thing you need
   - It's not bad to take a break from learning English, even if you took a week or two weeks off
   - There's nothing wrong with taking a break every once in a while, if you take 4 or 5 months, though, that's might a problem. It's hard to get started again.
+
+
+- [P40 工作中闲聊，与朋友、家人、陌生人闲聊 Learn English Small Talk](https://www.bilibili.com/video/BV1y7411x7yK?p=40&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - The first form of small talk is talking about the weather.
+    - Isn't it gorgeous out today? Wow, it's really coming down out there! (if it's raining for instance)
+  - Talk about the current situation.
+    - It's a good way to open up or start a conversation
+      - Have you been waiting here long or ...?
+      - This line is really long today.
+    - The second situation you might in where you want to use small talk is at work, here is five things that you could talk to people at work in order to engage in a small conversation.
+      - Sports, that's the number one thing you can talk to people. If you live in Canada you can always ask about the game of hockey.
+        - Did you see that game last night? 
+      - The news
+      - The weekend, we either talk about the weekend that just happened or we talk about the weekend that is going to happen.
+        - How was the weekend? 
+      - Family:
+        - How are your mom and dad doing? How are your kids?
+      - Travel. The other thing you might talk to friends and family about is travel. Maybe you know that they are going to go on a trip in the future or they have gone on a trip
+        - How was your trip to Paris? 
+        - Are you looking forward to your travel to Paris?
+      - Things you know they like doing. You could ask any interests or hobbies that you know they have. Maybe you have a friend who really enjoys going running?
+        - Are you still running daily?
+        - Are you still going for a run?
+        - Are you still going to those swimming classes?
+        - How is your English learning coming along? (It's a great question to ask someone that you know well)
+        - Are you still playing in that football league? Are you still working in that team?
