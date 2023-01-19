@@ -244,3 +244,18 @@ P26
         - Are you still going to those swimming classes?
         - How is your English learning coming along? (It's a great question to ask someone that you know well)
         - Are you still playing in that football league? Are you still working in that team?
+
+- [P108 Brain Games to Help You Learn to Think in English!](https://www.bilibili.com/video/BV1y7411x7yK?p=108&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - AlphaBet Game, found anything start with letter A, and make a phrase which includes that something, and then find the next letter and redo it
+  - Connecting words, pizza make you thinking of cheese, cheese with some milk, milk is from cow, cow lives in the farm, and you can use a dictionary to look up the words that you think of
+    - pizza has cheese on it
+    - cheese is made from milk
+    - milk comes from cow
+    - cow lives in farm
+    - farm is located the southeast of the city
+  - The opposites game. You can think of the word that is opposite of the words that you are used in the first phrase.
+  - The question you may ask. When you are in a public place, like a subway train, you may think of ask people some questions, for instance, you may ask a person sitting beside you：
+    - What book are you reading?
+    - How long have you worn glasses?
+    - Do you like pizza? I don't like pizza, I don't like how it tastes.
+    - All in all, you think about anything you get exposed to in your daily life.
