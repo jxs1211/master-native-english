@@ -1,11 +1,11 @@
 - P1 学习英语的最佳方式 The Best Way To Learn English (In my humble opinion.)
 ```
 Monday-Friday
-Reading
-Writing
-Listening
-Speaking
-Vocabulary
+- Reading
+- Writing
+- Listening
+- Speaking
+- Vocabulary
 
 Mondays are for Reading
 -Read the news 30-40mins
@@ -15,7 +15,7 @@ Mondays are for Reading
 Tuesdays are for Writing
 -Write about yesterday
 -Write about tomorrow
--Write down likes and dislikes about your book,song,or tv show
+-Write down likes and dislikes about your book,song,or tv show, and why
 -Write a summary of your recent reading
 
 Wednesdays are for Listening
@@ -34,19 +34,33 @@ Fridays are for Vocabulary
 
 P2
 英语面试中常见的14个问题 Common Questions You'll Be Asked During An English Job Interview
-12:58
+
 P3
 Here and There相关短语 An English Lesson on Phrases with Here and There
-10:21
+
 P4
 新冠困难时期英语 Learn English Phrases to use in Tough Times (and an Update)
-11:10
+
 P5
 生病时英语 An English Lesson- What to do and say when you are sick-
-07:02
-P6
-关于加拿大 An English Lesson About the Country of Canada
-08:31
+
+- P6 关于加拿大 An English Lesson About the Country of Canada
+- 20 interesting facts about the country that I know and love, called Canada.
+  - Canada has 2 official languages: English and France
+  - Milk comes in a bag.
+  - Canadian ends the sentence with "eh"
+  - Tim Horton's(Timmies) is a place where many Canadian go buy some breakfast every morning on their way to work.
+  - Canada is the second largest country in the world.
+  - Cash is very colorful
+  - The leader of Canada is the prime minister, not the president.
+  - Canada has 10 provinces which are from the Pacific Ocean in the west all the way to the Atlantic Ocean in the east, province is really really big in Canada.
+  - The capital of Canada is Ottawa, it's located pretty far north, in the province of Ontario.
+  - Canada is full of maple trees. One of the most popular exports is maple syrup.
+  - Bob the Canadian is an influencer who teaches people English on youtube.
+  - The Beaver is the national animal of Canada.
+  - In Canada tax is high, but health care is free. The dentist and eye doctor aren't free if you need work done about your teeth and eyes. Everything else is covered because you payed high taxes except medicine.
+  - Our biggest export is oil. Alberta has a large of oil resources.
+
 P7
 厨房烘培英语！ Learn English While Baking Cookies with Me in the Kitchen!
 08:29
@@ -259,3 +273,8 @@ P26
     - How long have you worn glasses?
     - Do you like pizza? I don't like pizza, I don't like how it tastes.
     - All in all, you think about anything you get exposed to in your daily life.
+
+
+- P109 I Make English Lessons For You! (And I Love It!)
+  - Watch the video with English subtitles on, and watch it again with subtitles off the next day
+  - 
