@@ -41,9 +41,14 @@ Here and There相关短语 An English Lesson on Phrases with Here and There
 P4
 新冠困难时期英语 Learn English Phrases to use in Tough Times (and an Update)
 
-P5
-生病时英语 An English Lesson- What to do and say when you are sick-
-
+- P5 生病时英语 An English Lesson- What to do and say when you are sick
+  - I will tell you what you can do and where you can go when you're feeling not very well, you're sick. What to say and do when you're sick.
+    - I'm sick, I don't feel very good/well. You need to call in sick and ask your boss if you take a sick off, let them know you have to take a sick day
+    - Here are 4 places you can go when you're not feeling good.
+      - drugstore and pharmacy is the first place where you can get medicine and other health products, like painkillers, Advil, aspirin and Tylenol.
+      - The second place is the medical center, you can go see a doctor, if they can figure it out, the doctor might write you a prescription, and then you can take it back to the drugstore, and they will give you the medicine that the doctor have prescribed.
+      - The walk-in clinic is normally open at night and also on the weekends if you have to see a doctor but the medical center is closed during that time.
+      - An emergency is a place where you can go when you're feeling extremely sick. It's called the emergency room or ER, you will come to the ER if you have a dangerous high fever or you have severe pain or you injure yourself.
 - P6 关于加拿大 An English Lesson About the Country of Canada
 - 20 interesting facts about the country that I know and love, called Canada.
   - Canada has 2 official languages: English and France
