@@ -63,7 +63,7 @@ P4
   - Canada is full of maple trees. One of the most popular exports is maple syrup.
   - Bob the Canadian is an influencer who teaches people English on youtube.
   - The Beaver is the national animal of Canada.
-  - In Canada tax is high, but health care is free. The dentist and eye doctor aren't free if you need work done about your teeth and eyes. Everything else is covered because you payed high taxes except medicine.
+  - In Canada tax is high, but health care is free. The dentist and eye doctor aren't free if you need work done about your teeth and eyes. Everything else is covered because you paid high taxes except medicine.
   - Our biggest export is oil. Alberta has a large of oil resources.
 
 P7
@@ -282,4 +282,8 @@ P26
 
 - P109 I Make English Lessons For You! (And I Love It!)
   - Watch the video with English subtitles on, and watch it again with subtitles off the next day
-  - 
+
+
+#### How to make a hot beer：
+
+I'm going to boil some beer, put in some ginger, garlic and rock sugar, mash and boil for 10 minutes. Then add the wolfberries and dates and boil for another 20 minutes
