@@ -8,32 +8,70 @@ Monday-Friday
 - Vocabulary
 
 Mondays are for Reading
--Read the news 30-40mins
--Read part of sentences out loud
--Write out some passages
+- Read the news 30-40mins
+- Read part of sentences out loud
+- Write out some passages
 
 Tuesdays are for Writing
--Write about yesterday
--Write about tomorrow
--Write down likes and dislikes about your book,song,or tv show, and why
--Write a summary of your recent reading
+- Write about yesterday
+- Write about tomorrow
+- Write down likes and dislikes about your book,song,or tv show, and why
+- Write a summary of your recent reading
 
 Wednesdays are for Listening
--Listen to your song a few times
--Watch English Talk Show
+- Listen to your song a few times
+- Watch English Talk Show
 
 Thursdays are for Speaking
--Talk to a native speaker is the best way to practice oral English
--Narrate your life
+- Talk to a native speaker is the best way to practice oral English
+- Narrate your life
 
 Fridays are for Vocabulary
--Study the vocabulary thay you save in your iphone earlier in the week
--Say the words out load
--Use the new words in a sentences
+- Study the vocabulary thay you save in your iphone earlier in the week
+- Say the words out load
+- Use the new words in a sentences
 ```
 
-P2
-英语面试中常见的14个问题 Common Questions You'll Be Asked During An English Job Interview
+  P2 英语面试中常见的14个问题 Common Questions You'll Be Asked During An English Job Interview
+  - How would you describe yourself? Could you tell us a little bit about yourself?
+    - I'm a very outgoing person, I like to work with others. I always love technology, I can't wait to have a job where I can work more closly with technology. Or I've always love doing sth ...
+  - Why do you want to work for us? Why are you applying for this job?
+    - I've always admired that you have do in the community or the work that you do for your customer. And I was impressed by how well that you did the recent job.
+    - My strength in the field matches the requirement of the job. I've always love contributing to the open source project, and I know your commpany specialize in working related with cloud infrastructure. I would love to work with you so that I can use my talents to help the team do a better job. 
+  - Why should we hire you?
+    - I'm always on time. I like to get things done, I like to solve probelm by coding. I'm an efficient and organized person. I like to explore sth new that really interests me, I like to chanlleage myself. I love learning new things.
+  - It sounds great but a little bit boastful?(to be overly proud of your achivement)
+    - but that pretty much describes me.
+  - Where do you see yourself in five years?
+    - I can see myself still doing in five years and do it well. Maybe one day there is an opportunity of promtion, I think I will try to catch it.
+  - What motivates you?
+    - I'm self-motivated, I usually enjoy my work, and I like to solve problem. I feel satisfied and happy when I solved a tough problem. I work hard regardless of weather someone is telling me what to do or not.
+  - Could you please describe your last job?
+    - I was an online programmer for a product which is called wave.
+    - I was full-time and everyday I discuss our future feature with the team member, design the technical solution for every task. and also implement the solution that we eventually choose after the discusion. and I'm also responsile for delivering the great feature to our production to help they successed in more efficient way. I've been worked for more than 2 years on line service team in Ubisoft China. I got full solid performance in the last anual check-in. I think that's the best performance of my team in the past fiscal year.
+  - What led you to this career?
+    - I've always love coding, learning new things, solving problem. I love to make contribution to no matter at work or the open source world. The spirit of open source community is making the world a better place. That's what I would like to do. It was a natural fit for me to go into the field of computer programming.
+  - What is your greatest strengh?
+    - stay curious
+    - love to take a real action in the field that I'm interested in. Solving problem make me feel satisfied.
+    - I also like to communicate with people to learning sth worth from others. get know some more views that I have never thought before from others.
+  - What is your greatest weakness? (answer the qustion  to be honest), here is a good stategy that is mention a strength after the weakness you said.
+    - I don't work well with others, I work best on my own. I get bored easily by repetitive tasks/if thing repeat themselves. I like having some variety in my day.
+  - What is your biggest professional achievement?
+    - once upon a time, I finished a big project. pick seriously and Be prepared to talk about that some project that you have done really well in the past job.
+  - Have you ever had a big problem and how did you overcome it? (to think on your feet: to be able to think quickly and solve problems fast)
+    - think about a problem that happen in your past job, and how you do to let problem go away.
+  - What do you like to do outside of work?
+    - I like to swim. I regually go swim every week, even in the winter. I'm able to swim 3/4 styles they're backstroke, freestyle and butterfly. I'm now learning the last one style.
+  - Do you work well with others?
+    - I'm able to work well with others. In the past 2 years, we delivery many great features to the production team, because we work very closly. We discuss with each other, we help each other, we value each other, we trust each other. and also in my past more than 10 years work experience, I worked with different team from different type company.
+    - I also like to solve problem by myself. Because thinking of soluion and solving problem are very important abilities for a programmer.
+  - Do you have any question for us?
+    - What is the first language of the job?
+    - What kind of service or product does the team delivery to the customer?
+    - What's the strength of the team?
+    - What's the most important part of improvement for the team?
+    - 
 
 P3
 Here and There相关短语 An English Lesson on Phrases with Here and There
@@ -49,22 +87,24 @@ P4
       - The second place is the medical center, you can go see a doctor, if they can figure it out, the doctor might write you a prescription, and then you can take it back to the drugstore, and they will give you the medicine that the doctor have prescribed.
       - The walk-in clinic is normally open at night and also on the weekends if you have to see a doctor but the medical center is closed during that time.
       - An emergency is a place where you can go when you're feeling extremely sick. It's called the emergency room or ER, you will come to the ER if you have a dangerous high fever or you have severe pain or you injure yourself.
+      - In Canada, if you are sick you could call 911 for an ambulance.
+
 - P6 关于加拿大 An English Lesson About the Country of Canada
-- 20 interesting facts about the country that I know and love, called Canada.
-  - Canada has 2 official languages: English and France
-  - Milk comes in a bag.
-  - Canadian ends the sentence with "eh"
-  - Tim Horton's(Timmies) is a place where many Canadian go buy some breakfast every morning on their way to work.
-  - Canada is the second largest country in the world.
-  - Cash is very colorful
-  - The leader of Canada is the prime minister, not the president.
-  - Canada has 10 provinces which are from the Pacific Ocean in the west all the way to the Atlantic Ocean in the east, province is really really big in Canada.
-  - The capital of Canada is Ottawa, it's located pretty far north, in the province of Ontario.
-  - Canada is full of maple trees. One of the most popular exports is maple syrup.
-  - Bob the Canadian is an influencer who teaches people English on youtube.
-  - The Beaver is the national animal of Canada.
-  - In Canada tax is high, but health care is free. The dentist and eye doctor aren't free if you need work done about your teeth and eyes. Everything else is covered because you paid high taxes except medicine.
-  - Our biggest export is oil. Alberta has a large of oil resources.
+  - 20 interesting facts about the country that I know and love, called Canada.
+    - Canada has 2 official languages: English and France
+    - Milk comes in a bag.
+    - Canadian ends the sentence with "eh"
+    - Tim Horton's(Timmies) is a place where many Canadian go buy some breakfast every morning on their way to work.
+    - Canada is the second largest country in the world.
+    - Cash is very colorful
+    - The leader of Canada is the prime minister, not the president.
+    - Canada has 10 provinces which are from the Pacific Ocean in the west all the way to the Atlantic Ocean in the east, province is really really big in Canada.
+    - The capital of Canada is Ottawa, it's located pretty far north, in the province of Ontario.
+    - Canada is full of maple trees. One of the most popular exports is maple syrup.
+    - Bob the Canadian is an influencer who teaches people English on youtube.
+    - The Beaver is the national animal of Canada.
+    - In Canada tax is high, but health care is free. The dentist and eye doctor aren't free if you need work done about your teeth and eyes. Everything else is covered because you paid high taxes except medicine.
+    - Our biggest export is oil. Alberta has a large of oil resources.
 
 P7
 厨房烘培英语！ Learn English While Baking Cookies with Me in the Kitchen!
