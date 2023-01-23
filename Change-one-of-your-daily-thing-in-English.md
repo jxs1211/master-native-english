@@ -1,0 +1,15 @@
+- Think about what is your plan today in English for 2 minutes when you wake up every morning.
+  - First: describe the most important thing that you need to do for the day.
+  - Second: make one thing that you're going to do from BobTheCanadian
+  - Third: describe one thing that is your daily routine, like hobbies and etc.
+- Do something in person that you've learned from English
+  - Clothing
+  - Having meal
+  - Go Living in a place
+  - go somewhere for something
+- Record everything(words and phrases) that you get exposed to and you have no idea how to express in English
+- Recap your day in English
+  - What did you do it right? What did you do wrong?
+  - Is there any space for improvement?
+  - What did make you happy today?
+  - Did you get any good or bad experiences that may help you make your life better?

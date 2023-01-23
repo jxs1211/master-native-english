@@ -1,0 +1,3 @@
+- [daily expense in different cities 38:05](https://www.bilibili.com/video/BV1T54y1X7B8?p=38&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+- [how to adapt to stay in Canada in a short time 39:46](https://www.bilibili.com/video/BV1T54y1X7B8/?p=52&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+- [how much to rent a house 38:57](https://www.bilibili.com/video/BV1T54y1X7B8/?p=52&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)

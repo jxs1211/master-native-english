@@ -1,5 +1,11 @@
 超级实用、地道的几组口语表达，一定背熟！
 
+
+```
+Daily dish
+I usually get porridge, savory(some kind of chinese salted vegetables), eggs and rolls for breakfast.
+```
+
 日常用语：
 ```
 You intenionally lie to play dumb./ You have an intension of lying to play dumb.

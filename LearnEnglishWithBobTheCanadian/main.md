@@ -32,13 +32,18 @@ Fridays are for Vocabulary
 - Use the new words in a sentences
 ```
 
-  P2 英语面试中常见的14个问题 Common Questions You'll Be Asked During An English Job Interview
+- [P2-英语面试中常见的14个问题](https://www.bilibili.com/video/BV1y7411x7yK/?p=2) Common Questions You'll Be Asked During An English Job Interview
+
+ ```
+ I'm going to go over some of the most commonly question that you willl be asked in an English job interview. Before we get started through don't forget to click the red subscribe button over there and give me a thumbs up if the lesson help just you learn a little bit more English.
+ ```
+
   - How would you describe yourself? Could you tell us a little bit about yourself?
     - I'm a very outgoing person, I like to work with others. I always love technology, I can't wait to have a job where I can work more closly with technology. Or I've always love doing sth ...
   - Why do you want to work for us? Why are you applying for this job?
     - I've always admired that you have do in the community or the work that you do for your customer. And I was impressed by how well that you did the recent job.
     - My strength in the field matches the requirement of the job. I've always love contributing to the open source project, and I know your commpany specialize in working related with cloud infrastructure. I would love to work with you so that I can use my talents to help the team do a better job. 
-  - Why should we hire you?
+  - Why should we hire you?(Even though they are possibly hiring you to start soon, they'll also want to know what some of your long-range plans are)
     - I'm always on time. I like to get things done, I like to solve probelm by coding. I'm an efficient and organized person. I like to explore sth new that really interests me, I like to chanlleage myself. I love learning new things.
   - It sounds great but a little bit boastful?(to be overly proud of your achivement)
     - but that pretty much describes me.
@@ -48,9 +53,9 @@ Fridays are for Vocabulary
     - I'm self-motivated, I usually enjoy my work, and I like to solve problem. I feel satisfied and happy when I solved a tough problem. I work hard regardless of weather someone is telling me what to do or not.
   - Could you please describe your last job?
     - I was an online programmer for a product which is called wave.
-    - I was full-time and everyday I discuss our future feature with the team member, design the technical solution for every task. and also implement the solution that we eventually choose after the discusion. and I'm also responsile for delivering the great feature to our production to help they successed in more efficient way. I've been worked for more than 2 years on line service team in Ubisoft China. I got full solid performance in the last anual check-in. I think that's the best performance of my team in the past fiscal year.
+    - I was full-time and everyday I discuss our future feature with the team member, design the technical solution for every task. and also implement the solution that we eventually choose after the discusion. and I'm also responsile for delivering the great feature to our production to help they successed in more efficient way. I've been worked for more than 2 years on line service team in Ubisoft China. I got full solid performances on every pillar in the last anual check-in. I think that's the best performance of my team in the past fiscal year.
   - What led you to this career?
-    - I've always love coding, learning new things, solving problem. I love to make contribution to no matter at work or the open source world. The spirit of open source community is making the world a better place. That's what I would like to do. It was a natural fit for me to go into the field of computer programming.
+    - I've always love coding, learning new interesting things about computer, solving problem. I love to make contribution to no matter at work or the open source world. The spirit of open source community is making the world a better place. That's what I would like to do. It was a natural fit for me to go into the field of computer programming.
   - What is your greatest strengh?
     - stay curious
     - love to take a real action in the field that I'm interested in. Solving problem make me feel satisfied.
@@ -67,17 +72,18 @@ Fridays are for Vocabulary
     - I'm able to work well with others. In the past 2 years, we delivery many great features to the production team, because we work very closly. We discuss with each other, we help each other, we value each other, we trust each other. and also in my past more than 10 years work experience, I worked with different team from different type company.
     - I also like to solve problem by myself. Because thinking of soluion and solving problem are very important abilities for a programmer.
   - Do you have any question for us?
-    - What is the first language of the job?
+    - How many hours do I need to work per week?
+    - What is the first language of the job? What's the mostly used language of the work?
+    - What's the most attractive part of the job for a programmer?
     - What kind of service or product does the team delivery to the customer?
     - What's the strength of the team?
     - What's the most important part of improvement for the team?
-    - 
+    - Is there any another round of interviews?
+    - May I have any chance to be notified the result of the interview?
 
-P3
-Here and There相关短语 An English Lesson on Phrases with Here and There
+- P3 Here and There相关短语 An English Lesson on Phrases with Here and There
 
-P4
-新冠困难时期英语 Learn English Phrases to use in Tough Times (and an Update)
+- P4 新冠困难时期英语 Learn English Phrases to use in Tough Times (and an Update)
 
 - P5 生病时英语 An English Lesson- What to do and say when you are sick
   - I will tell you what you can do and where you can go when you're feeling not very well, you're sick. What to say and do when you're sick.
@@ -189,7 +195,11 @@ The last thing I do in my daily basis is I go to sleep.
 Good night. See you tomorrow.
 ```
 
-- P23 如何自信的与以英语为母语的人交谈 How To Speak English With Confidence When Talking To Native English speaker
+
+- [P19Have Fun and Learn 50 More English Phrasal Verbs with Examples!](https://www.bilibili.com/video/BV1bE411k78N/?p=19&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - 
+
+- [P23 如何自信的与以英语为母语的人交谈 How To Speak English With Confidence When Talking To Native English speaker]()
 
 
 P24
@@ -209,6 +219,7 @@ P26
     - when you finish your daily English learning task, you could have something you like as a reward
     - when you finish your weekly English learning tasks within 5 sequential days, you could have something like an expensive yami cup of coffee as a reward
     - If you don't finish the task, you won't get the reward
+  - Tie your interests to learning English
   - [measure your progress](https://quizlet.com/762321629)
   - turn it into a competition or try to impress someone
     - who can learn most vocabulary in a day
@@ -264,10 +275,39 @@ P26
   - I like/love ...(cooking, gardening, and reading...)
   - I would like to ...(visit France)
   - What country would you like to visit if you got any chance this year?
-  
 
+
+- P101 How to Describe Yourself in English Part 2! (Also 8 Things You Don't Know About)[link](https://www.bilibili.com/video/BV1y7411x7yK/?p=101&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - On time
+    - I like to be on time when I go anywhere. I don't like to be late.
+    - I'm always late. I'm always running late.
+    - I'm usually on time. I'm sometimes late.
+  - Organized person
+    - I'm very messy person. I'm not a very organized person.
+    - I'm tidy person. I'm an organized person. I'm very neat and organized/tidy.
+  - As a child
+    - As a child I liked/loved school. 
+    - As a child I don't liked/loved school. As a child I hated school.
+  - Favorite
+    - When I was in school my favorite subject is chemistry and English.
+    - When I was in Ubisoft my favorite thing is Golang and cloud native.(I wish I could be a Golang developer in my whole life)
+  - Musical person in a certain way
+    - I don't play any in musical instruments because I'm not a very musical person.
+    - I'm way musical person because I sing.
+    - I play the guitar and sing, that's my favorite.
+  - Sports
+    - I watch hookies when it's playoff a little bit.
+    - I don't play sports.
+    - I watch football, I'm a big fan of football.
+  - Play sports(I know that might come as a suprise to you)
+    - I don't play sports. (You might have something in common with the person you talk to.)
+    - I play soccer.
+  - Sleep in(Here is something interesting about you that u might not know)
+    - I don't sleep in(That's not entirely true)
+    - I rarely sleep in. I just occasionally sleep in.
+    - I love to sleep in. I sleep in all the time on the weekend. I wish I could sleep in more. I think as you get older it gets a lot harder to sleep in.
 - P114 Have You Ever Quit Learning English Here's How To Get Excited Again!
-  - Redo something old, think of something you used to do when you were learning the language that you really enjoyed or make you excited, for instance maybe there's a comic book that you read when you're first starting to learn the language. or TV drama or movie  that you used to watch
+  - Redo something old, think of something you used to do when you were learning the language that you really enjoyed or make you excited, for instance maybe there's a comic book that you read when you're first starting to learn the language. or TV drama or movie that you used to watch
   - Do something new, The other thing you can do is and it's kinda connecting the new with the old. like new songs, follow-up novels or series.
   - Past success and future happiness
     - think about the past when you're incredibly successful and try to remember how that felt
@@ -317,7 +357,7 @@ P26
     - What book are you reading?
     - How long have you worn glasses?
     - Do you like pizza? I don't like pizza, I don't like how it tastes.
-    - All in all, you think about anything you get exposed to in your daily life.
+    - All in all, you think about anything you get exposed to in your daily life in English.
 
 
 - P109 I Make English Lessons For You! (And I Love It!)
@@ -327,3 +367,168 @@ P26
 #### How to make a hot beer：
 
 I'm going to boil some beer, put in some ginger, garlic and rock sugar, mash and boil for 10 minutes. Then add the wolfberries and dates and boil for another 20 minutes
+
+
+#### How to Have Enjoyable English Conversations
+
+- That's cool. That's neat. That's interesting.
+- I find that fascinating.
+- Ask a good question during the conversation
+  - How long were you gone for?
+  - Describe that to me a bit. It sounds fascinating.
+  - How many times did you do it?
+  - That's really interesting. So you like camping?
+  - I find that's really neat. I've always wanted to do that.Was it hard to get started?
+
+#### [Do This Before Watching a TV Series to Learn English](https://www.youtube.com/watch?v=b-zpDblg9k4)
+
+- search the trailer of the TV series on youtube
+- search the premise of the TV series on wikipedia
+  - Learn the characters in the TV series, write down the list of all the characters that are in the show.
+  - Read the summary of the first episode
+- Learn the vocabulary about the genre of the TV series
+- Watch the first episode of the TV series in your own language if possile
+- take some time to think about/guess what the TV series is about before you watch it
+
+```
+The euphoria
+[wikipedia](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)#Release)
+
+** Episode 5 **
+- Kat has a sexual encounter with a clothing store clerk about whom she had previously fantasized. 
+- Rue apologizes to Lexi for having been a bad friend and invites her to go roller skating with her and Jules. 
+- Cal questions the effects his secret sexuality has had on his children. 
+
+** Episode 6 **
+- In the present day, Nate is suspended from school and socially ostracized
+- Nate breaks into Tyler's apartment and coerces him into confessing to choking Maddy. He also blackmails Jules into telling the police that she saw Tyler attack Maddy.
+- Cassie attends a Halloween party with McKay, where he is violently hazed[11] by his fraternity brothers.
+- He then has aggressive sex with Cassie, which leaves her in tears.
+- Rue apologizes to Fez for lashing out at him.
+- Kat hooks up with Ethan but ditches him when he visits the bathroom.
+- When Cassie refuses to have sex with Daniel, he insults her.
+
+** Episode 7 **
+- She frequently enters exploitative sexual relationships with her peers until she meets McKay
+- In the present, Rue falls into a manic depression after Jules 
+grows distant, causing her bladder to shut down.
+- After she and Lexi figure out what Nate did to Jules, Rue asks Fez to intimidate him
+- but Nate retaliates by anonymously reporting Fez to the police
+- Maddy confronts Kat over her new, assertive persona
+- Kat ends a cam session with a high-paying client when it makes her uncomfortable
+- He is overwhelmed and suggests she get an abortion.
+- Jules and Anna go clubbing, take psychedelics, and share a sexual experience, during which Jules hallucinates about both Nate and Rue.
+
+** Episode 8 **
+- Rue and Jules reconcile as Rue recovers in the hospital after a kidney infection. 
+- Nate attempts to fight him but after being subdued, begins to hit himself, leaving Cal shaken.
+- Kat seeks out Ethan and apologizes for her behavior.
+- Nate taunts her about Jules's loyalty. 
+- A heartbroken Rue returns home and relapses, before experiencing a vivid, musical hallucination.
+
+```
+#### [P66 户外学习英语习语! Let's Learn English Idioms Outside!](bilibili.com/video/BV1y7411x7yK/?p=66&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+- a trip down memory lane: talk about sth happened in the past
+- go with the flow: you're very agreeable with sb
+- water on the bridge/We'll cross that bridge when we get there: when we've not done step one, but someone keep thinking about step three.
+- refer to sth
+- a thorn in our side: a source of constant annoyance, sb is a thorn in your side, who always make thing difficult and you can't work well.
+- nip it(sth) in the bud: you get rid of the problem or solve the problem when it's really really small.
+- beat around the bush: means you kinda talk about a whole bunch of other things instead of talking about the main thing
+- outstanding in their field: means sb is better than others in that field or well repected in that field.
+- put down roots: means you've moved to somewhere permanently
+- get to the root of the problem: you try to figure out why you have that problem
+- good fence make good neighour: 
+- the grass is always greener on the other side of the fence: other people's life might seem better but in reality may not be, maybe you're just jealous about what someone else has
+- Maybe your neighour's house is nicer than yours, but his life may not be that much better.
+- on the fence: to be undecided about something, like sth invite you go to movie tomorrow but you're kinda on the fence because you might need to handle other two things at that time.
+- I'm not gonna pan the camera down so you can see it.
+
+#### [Learn English through the Music of the Beatles and the Movie Yesterday](https://www.youtube.com/watch?v=4TDgJ3flDiY)
+
+- Yesterday
+  - say something wrong to sb
+  - to long for: want be stay with sb
+- Let it be: Don't worry about what you're worrying about
+- When I'm sixty four
+  - Who could ask for more
+- Eleanor rigby
+  - it cludes three little stories about different lifes.
+- I want to hold your hand
+- Here comes the sun
+  - It's alright.
+  - It seems like years: a lot of time past
+- To stop and think
+  - stop doing sth and think sth deeply
+- Hey Jude
+  - you could get a deep feeling when you carry the world on your shoulder
+- All you need is love
+  - someone is self assured
+
+#### [P76 Learn English Job Vocabulary and Job Phrases](https://www.bilibili.com/video/BV1y7411x7yK/?p=76&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+
+- Have no job
+  - you're umemployed
+  - I'm laid off
+  - My little brother've just finished the school
+- Job Posting
+  - searching for a job on news paper, website
+  - looking for a job around where you live
+    - the sign on the window
+    - AD on the highway
+    - on the back of the car
+- Applying
+  - drop a resume and a cover letter to the company that you're interested in
+  - waiting to hear back
+  - interview [P2英语面试中常见的14个问题](https://www.bilibili.com/video/BV1y7411x7yK/?p=2)
+  - Got the job
+    - the company take you on as a employee
+    - sign a contract
+  - first day of work
+    - new guy
+    - traniee
+    - rookie: is new a job or on a team
+    - mentor: someone you could go ask if you have problem
+  - Quit a job
+    - two weeks notice
+    - That's it, I quit.
+    - retire
+      - pension
+      - 
+  - Being letting go
+    - you're laid off or fired because you're not a good employ for the company or you fight with your co-worker and colleague
+      - clean out your desk and don't bother coming back tomorrow
+  - Question
+    - If you win the lottery, would you quit your job?
+      - I think I won't do. Because job is an part of my life, I need to some time to think about should I quit my job and what's my plan to do next, even I got the lottery. If I love my job, I think I won't quit immedicately, If I don't like my job, I think I would quit and take a trip or vacation to think about my future plan.
+    - Will you tell your boss 'I got lottery, I quit' or give two weeks notice?
+      - I probably prefer to give them two weeks.notice.
+
+#### [P85Learn English Travel and Tourism Vocabulary and Phrases in Niagara Falls!](https://www.bilibili.com/video/BV1y7411x7yK/?p=85&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - This river is falling over is called Niagara River, and this is Horseshoe Falls
+  - The fall way over there is American Falls
+  - Tourist: a person travels to visit a place
+  - Tourism: the bussiness of providing services to the people who are tourists, help tourist find a place to stay, eat, play
+  - Tourist area/attraction: the area around something interesting that tourists want to see. A place that People are attracted by
+  - Touristy: a place have a lot of tourists
+  - Sightseeing: to visit interesting place when you travel.
+  - Highlight: the most exicting/favorite part of a trip
+  - Hotel district: a area where you could find some place to live during the tourism visiting
+  - Second Conditional: If I did, I would need to wear a mask.
+  - Bed and breakfast: you pay someone who will give you one of bed and a breakfast the next day before you leave.
+  - Hotel: It has many rooms and floors, the doors are on the inside
+  - Motel: has one or two floors, and the doors are on the outside
+  - Guidebook: show all the sightseeing(important things) that you should visit when traveling
+  - Guided tour: a tour with a guy who will show the cool things to see in that area
+  - Bus tour: a bus that will drive to all the tourist attractions and there is a tourist guide who will introduce all the places along the way 
+  - Itinerary: list what are you going to do , where are you going to visist one day
+  - A room with a view: a room of a hotel has a window that whatever of the view you can see
+  - Vacation package: a trip with one price that includes hotel, trips and more.
+  - Souvenir shop: some small thing you buy at the souvenir shop to help you remember the trip.
+  - Entertainment district: 
+  - Travel light: don't bring a lot of things along if you're going a walking tour or bus tour
+  - Watch your step: a warning to look down when you get on or off something like bus so that you don't trip and fall, be careful when you get on or off the bus if you're going a bus tour, it may feel a little bit funny and you might trip
+  - Call it a day: simply means the day is over, you decide to not go anywhere else, and probably go back to the accommendation, either hotel, Airbnb, or maybe you're staying at nice motel.
+
+#### [P86Are You Learning English You Can Do It! (A Little Bit of Encouragement!)](https://www.bilibili.com/video/BV1y7411x7yK/?p=86&spm_id_from=pageDriver&vd_source=2b3537c234d02f82c699d6ee46f94a38)
+  - 
