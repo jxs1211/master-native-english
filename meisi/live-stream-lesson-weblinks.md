@@ -1,3 +1,38 @@
+[course links 美思英语课堂](https://appucagyavn7339.h5.xiaoeknow.com/p/decorate/more/eyJpZCI6ImFsaXZlIiwiY2hhbm5lbF9pZCI6IiIsImNvbXBvbmVudF9pZCI6OTg1MDg1MCwiYWxpdmVfdHlwZSI6MH0)
+
+
+```
+2023-2-1  到 2023-2-5 密码221
+2023-2-6 到 2023-2-12 密码288
+2023-2-13 密码999
+2023-2-14 到 2023-2-19 密码215
+2023-2-20到 2023-2-26 密码222
+2023-2-27 到 2023-3-5 密码331
+2023-3-6 到 2023-3-7 密码388
+```
+
+![image-20230203092242288](C:\Users\xjshen\AppData\Roaming\Typora\typora-user-images\image-20230203092242288.png)
+
+### 配套音频
+- 链接：https://pan.baidu.com/s/1g9daAyFwAEUfSJ3MyKouxA 
+提取码：f12o
+
+- [2023-2-1 Par直播课](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63d9bd9de4b07b0558311f72?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_5fade99f6e000_k5UELZHlJI&type=2)
+
+- [2023-2-2-William-新闻课资料](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63db675ae4b030cacb0f40d6?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_5fade99f6e000_k5UELZHlJI&type=2)
+
+- [](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63dc5c67e4b07b0558319769?type=2&app_id=appucagyavn7339&available=true&share_user_id=u_5fade99f6e000_k5UELZHlJI&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+- [CareerOnTrack](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63dcb01be4b02685a43db2a1?type=2&app_id=appucagyavn7339&available=true&share_user_id=u_5fade99f6e000_k5UELZHlJI&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+- [Zodiac](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63e09a03e4b030cacb10c240?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_63d3c47b8fd65_y3b8t784GD&type=2)
+
+- [Compatibility](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63e074cfe4b02685a43eb1be?type=2&app_id=appucagyavn7339&available=true&share_user_id=u_5fade99f6e000_k5UELZHlJI&share_type=5&scene=%E5%88%86%E4%BA%AB&share_scene=1&entry=2&entry_type=2002)
+
+Lantern festival
+
+- [TakeABreather](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63e1b47de4b06159f736ee51?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_63d3c47b8fd65_y3b8t784GD&type=2)
+
 - [2023-2-1 Par直播课](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63d9bd9de4b07b0558311f72?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_5fade99f6e000_k5UELZHlJI&type=2)
 
 - [2023-2-2-William-新闻课资料](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63db675ae4b030cacb0f40d6?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_5fade99f6e000_k5UELZHlJI&type=2)
@@ -12,16 +47,17 @@
 
 - [新闻课1](https://appucagyavn7339.h5.xiaoeknow.com/v2/course/alive/l_63eda6dce4b02685a44447ef?app_id=appucagyavn7339&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_5fade99f6e000_k5UELZHlJI&type=2)
 
+- [美思大牛老师：2月8日视频号直播内容](https://appucagyavn7339.h5.xiaoeknow.com/p/course/video/v_63e343e1e4b06159f737b631?type=2&type=2&scene=%E5%88%86%E4%BA%AB&entry=2&entry_type=2002&share_user_id=u_5fb3263ce5649_LbtXF3XT7d&share_type=5)
 
 
 
-
-
-
-![image-20230203092242288](C:\Users\xjshen\AppData\Roaming\Typora\typora-user-images\image-20230203092242288.png)
-
-
-
+#### How not to be a loser
+- certainty
+- variety
+- significant
+- love
+- growth
+- contribution
 
 ```
 Testing testing

@@ -220,189 +220,84 @@
 - P215Meaning of COOPED UP and CABIN FEVER(stay inside a long time and eager to be outside for more space)
 - P216Meaning of DRIVES ME AROUND THE BEND(drive me up the wall, crazy, frustrated, annoyed)
 - P217Meaning of FED UP and HAD ENOUGH(I think sth is bad to me and don't wanna experience, see, or feel it any more)
-- P218Meaning of LEAVE ME ALONE and LET ME BE(being mean to us, bothering us, bargaining us)
+- P218Meaning of LEAVE ME ALONE and LET ME BE(not being mean to us, bothering us, bargaining us)
 - P219Meaning of TAKE IT OR LEAVE IT AND YOUR LOSS(don't want sb bargain the price you offer)
 - P220Meaning of BARGAIN HUNTING(the day after Christmas is boxing day which have a lot of things is on sale and the prices is reduced)
-P221
-Meaning of CHRISTMAS EVE and LAST MINUTE SHOPPING
-01:42
-P222
-Meaning of GET A KICK OUT OF and GET A RUSH OUT OF
-01:54
-P223
-Meaning of GET YOUR ACT TOGETHER
-01:29
-P224
-Meaning of GOOF AROUND and GOOF OFF
-01:50
-P225
-Meaning of GOOF UP and SLIP UP
-01:48
-P226
-Meaning of HAPPY HOLIDAYS and MERRY CHRISTMAS
-01:46
-P227
-Meaning of HAPPY NEW YEAR
-01:25
-P228
-Meaning of I'M ALL FOR IT and I'M ALL IN
-01:56
-P229
-Meaning of IT'S SPITTING and IT'S DRIZZLING
-01:55
-P230
-Meaning of MOTORMOUTH and LOUDMOUTH
-01:57
-P231
-Meaning of RACK MY BRAIN and MY MIND WENT BLANK
-01:52
-P232
-Meaning of SLIM PICKINGS and LOTS TO CHOOSE FROM
-01:35
-P233
-Meaning of WAY TO GO
-02:03
-P234
-Meaning of NEW YEAR'S EVE
-01:09
-P235
-Meaning of WHY ON EARTH
-01:43
-P236
-Meaning of YOU'RE TOO MUCH
-01:45
-P237
-Meaning of ALL YOUR DUCKS IN A ROW
-01:57
-P238
-Meaning of DOWN TO A FINE ART and TO GO THE EXTRA MILE
-02:00
-P239
-Meaning of FIRSTHAND and SECONDHAND
-02:01
-P240
-Meaning of GIVE IT A GO and GIVE IT A SHOT
-01:34
-P241
-Meaning of HINDSIGHT IS 20_20 and THERE'S NO GOING BACK
-01:54
-P242
-Meaning of IT'S AWFULLY GOOD and IT'S OUT OF THIS WORLD
-01:43
-P243
-Meaning of LET ME SEE and THE WAY I SEE IT
-01:56
-P244
-Meaning of NOTHING SPECIAL and SOMETHING ELSE
-02:00
-P245
-Meaning of STICK AROUND and STICK TO IT
-01:55
-P246
-Meaning of UNDER THE TABLE and OFF THE BOOKS
-01:50
-P247
-Meaning of A FLY ON THE WALL and NOSY
-02:00
-P248
-Meaning of HIGH HOPES and TO GET YOUR HOPES UP
-01:54
-P249
-Meaning of IT'S A SMALL WORLD and FANCY MEETING YOU HERE
-01:59
-P250
-Meaning of OUT OF SORTS and ON EDGE
-01:54
-P251
-Meaning of THE SAME OLD and THE SAME OLD STORY
-01:44
-P252
-Meaning of A BIT OF A STRETCH and STRETCH YOUR MONEY
-01:56
-P253
-Meaning of FROM NOW ON and FOREVER AND EVER
-01:57
-P254
-Meaning of HAPPY MEDIUM and MEET HALFWAY
-02:01
-P255
-Meaning of HAPPY VALENTINE'S DAY
-01:58
-P256
-Meaning of HARDER THAN IT LOOKS and HARDER THAN IT SEEMS
-01:59
-P257
-Meaning of SLEEP THE DAY AWAY and TIME FLIES
-01:47
-P258
-Meaning of TAKE IT EASY and EASIER SAID THAN DONE
-02:00
-P259
-Meaning of THE SQUEAKY WHEEL GETS THE GREASE and I CAN'T COMPLAIN
-01:56
-P260
-Meaning of TWO PEAS IN A POD and COOL BEANS
-01:54
-P261
-Meaning of WHERE THERE'S A WILL THERE'S A WAY
-01:58
-P262
-Meaning of DON'T BURN ANY BRIDGES
-01:55
-P263
-Meaning of FLAT BROKE and IN SECONDS FLAT
-02:00
-P264
-Meaning of TURN OF EVENTS and TOPSY-TURVY
-02:01
-P265
-Meaning of ABSENCE MAKES THE HEART GROW FONDER
-01:38
-P266
-Meaning of BACK IN THE SWING OF THINGS and BUSINESS AS USUAL
-01:50
-P267
-Meaning of IT'LL COME TO ME and IT ESCAPES ME
-01:48
-P268
-Meaning of NO CAN DO and SURE THING
-01:54
-P269
-Meaning of SOCIAL DISTANCING and SELF-ISOLATION
-01:59
-P270
-Meaning of SPRING BREAK and READING BREAK and MARCH BREAK
-01:57
-P271
-Meaning of YOU'VE LOST ME and I DON'T FOLLOW YOU
-01:53
-P272
-Meaning of BEST CASE SCENARIO and WORST CASE SCENARIO
-01:41
-P273
-Meaning of COOPED UP and FRESH AIR
-01:59
-P274
-Meaning of ROUGH PATCH and TOUGH TIMES
-01:45
-P275
-Meaning of TEST DRIVE and PUT THE BRAKES ON
-01:59
-P276
-Meaning of TO HAVE YOUR HEAD SCREWED ON RIGHT
-01:56
-P277
-Meaning of HERE WE GO and HERE WE ARE
-01:57
-P278
-Meaning of LIFE OF THE PARTY and LATE TO THE PARTY
-02:00
-P279
-Meaning of TO HAVE A KICK TO IT and JUST FOR KICKS
-02:00
-P280
-Meaning of UP TO SPEED and OUT OF THE LOOP
-01:56
+- P221Meaning of CHRISTMAS EVE and LAST MINUTE SHOPPING
+- P222Meaning of GET A KICK OUT OF and GET A RUSH OUT OF(enjoy doing sth)
+- P223Meaning of GET YOUR ACT TOGETHER(get organized)
+  - GET THE SHOW ON THE ROAD
+- P224Meaning of GOOF AROUND and GOOF OFF(play dumb or act silly)
+- P225Meaning of GOOF UP and SLIP UP(make a mistake)
+- P226Meaning of HAPPY HOLIDAYS and MERRY CHRISTMAS
+- P227Meaning of HAPPY NEW YEAR
+- P228Meaning of I'M ALL FOR IT and I'M ALL IN(totally into sth or do sth that someone suggest you to do)
+- P229Meaning of IT'S SPITTING and IT'S DRIZZLING(start raining at the every beginning)
+- P230Meaning of MOTORMOUTH and LOUDMOUTH
+  - MOTORMOUTH: describe a person who won't stop talking and shutting up their mouth
+  - LOUDMOUTH: means someone speak their mind very loudly.
+- P231Meaning of RACK MY BRAIN and MY MIND WENT BLANK(try really hard to remember stth)
+- P232Meaning of SLIM PICKINGS and LOTS TO CHOOSE FROM(they are not many options to choose, buy sth at grocery store but they didn't have that enough)
+- P233Meaning of WAY TO GO(congrats sb do sth well)
+- P234Meaning of NEW YEAR'S EVE
+- P235Meaning of WHY ON EARTH(add "on earth" to emphaize sth)
+- P236Meaning of YOU'RE TOO MUCH
+  - you do like the behavior that someone is demonstrating because it make you laugh
+  - your don't like the behavior someone is demonstrating because it make you uncomfortable
+- P237Meaning of ALL YOUR DUCKS IN A ROW(You're organized and are ready for sth, if not, you need to get your act together)
+- P238Meaning of DOWN TO A FINE ART and TO GO THE EXTRA MILE(sb do sth very efficient and organized)  
+- P239Meaning of FIRSTHAND and SECONDHAND
+- P240Meaning of GIVE IT A GO and GIVE IT A SHOT(you're willing to do sth new)
+- P241Meaning of HINDSIGHT IS 20_20 and THERE'S NO GOING BACK(do sth bad but can't go back to undo it)
+- P242Meaning of IT'S AWFULLY GOOD and IT'S OUT OF THIS WORLD(sth is really good)
+- P243Meaning of LET ME SEE and THE WAY I SEE IT(think of sth)
+- P244Meaning of NOTHING SPECIAL and SOMETHING ELSE(sth is just ordinary thing)
+- P245Meaning of STICK AROUND and STICK TO IT(ask sb stay, don't leave)
+- P246Meaning of UNDER THE TABLE and OFF THE BOOKS
+- P247Meaning of A FLY ON THE WALL and NOSY
+- P248Meaning of HIGH HOPES and TO GET YOUR HOPES UP(hope you could get the best, hope you could get your hopes up and don't make your hope get dash)
+- P249Meaning of IT'S A SMALL WORLD and FANCY MEETING YOU HERE(sb know someone who you do as well)
+- P250Meaning of OUT OF SORTS and ON EDGE
+- P251Meaning of THE SAME OLD and THE SAME OLD STORY(do sth over and over again)
+- P252Meaning of A BIT OF A STRETCH and STRETCH YOUR MONEY(sth is kinda stretch, sth is not told the whole turth)
+- P253Meaning of FROM NOW ON and FOREVER AND EVER(started doing sth)
+- P254Meaning of HAPPY MEDIUM and MEET HALFWAY(find sth you can both argree on when you originally not agree)
+- P255Meaning of HAPPY VALENTINE'S DAY(speak to sb who you love)
+  - sth goes long way means sth is good
+- P256Meaning of HARDER THAN IT LOOKS and HARDER THAN IT SEEMS(it's much harder than it looks when you watch someone do it)
+- P257Meaning of SLEEP THE DAY AWAY and TIME FLIES
+- P258Meaning of TAKE IT EASY and EASIER SAID THAN DONE
+- P259Meaning of THE SQUEAKY WHEEL GETS THE GREASE(the person who complain always gets their way)
+  - and I CAN'T COMPLAIN(it's just another way to answer how it's going)
+- P260Meaning of TWO PEAS IN A POD(two people are very similar in some way, like sth they're simle or laugh at)
+  - COOL BEANS(sth is very interesting and cool)
+- P261Meaning of WHERE THERE'S A WILL THERE'S A WAY(if you have a will to do sth you can do it)
+- P262Meaning of DON'T BURN ANY BRIDGES(don't ruin any relationship)
+  - we will cross that bridge when we get there(we believe we will eventually find a solution to solve the probelm)
+- P263Meaning of FLAT BROKE and IN SECONDS FLAT(really have no money)
+- P264Meaning of TURN OF EVENTS and TOPSY-TURVY()
+- P265Meaning of ABSENCE MAKES THE HEART GROW FONDER()
+- P266Meaning of BACK IN THE SWING OF THINGS and BUSINESS AS USUAL(back to do sth again)
+- P267Meaning of IT'LL COME TO ME and IT ESCAPES ME(you know sth but can't think of it at the moment,maybe you could remember it later)
+  - forget about sth temperaryly
+- P268Meaning of NO CAN DO and SURE THING(someone can't do sth)
+- P269Meaning of SOCIAL DISTANCING and SELF-ISOLATION()
+- P270Meaning of SPRING BREAK and READING BREAK and MARCH BREAK(someone is on Spring break)
+- P271Meaning of YOU'VE LOST ME and I DON'T FOLLOW YOU(you don't understand what someone is talking about)
+- P272Meaning of BEST CASE SCENARIO and WORST CASE SCENARIO(if sth bad happened, it's going to be a bad or not that bad consequences, we could probably estimate the best and worst consequences under the situation)
+- P273Meaning of COOPED UP and FRESH AIR(when you get stuck inside for a bit long, maybe you want to go outside and experience a little bit nature, have a little bit sunshine and fresh air)
+- P274Meaning of ROUGH PATCH and TOUGH TIMES(the thing don't go the way you're hoping them to go)
+- P275Meaning of TEST DRIVE and PUT THE BRAKES ON(try sth new)
+- P276Meaning of TO HAVE YOUR HEAD SCREWED ON RIGHT
+  - What were you thinking? (You think about someone make a bad desision, and it make you a little bit annoyed)
+- P277Meaning of HERE WE GO and HERE WE ARE(about to start doing sth, get the place where I'm going)
+- P278Meaning of LIFE OF THE PARTY and LATE TO THE PARTY(have fun)
+- P279Meaning of TO HAVE A KICK TO IT and JUST FOR KICKS
+  - TO HAVE A KICK TO IT(sth is hot or spicy)
+  - JUST FOR KICKS(just for fun)
+- P280Meaning of UP TO SPEED and OUT OF THE LOOP
+  - UP TO SPEED(you know what you need to know)
+  - OUT OF THE LOOP(you don't know what you need to know)
 P281
 Meaning of ALL BARK AND NO BITE and TO LET THE CAT OUT OF THE BAG
 01:59
